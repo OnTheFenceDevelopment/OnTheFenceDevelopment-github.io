@@ -27,7 +27,7 @@ When Visual Studio created the project it placed three jQuery files in scripts f
 \
 Your Solution Explorer should look something like this:
 
-![solution explorer]({{ site.url }}/assets/images/jquery-ajax-solution-explorer.png)
+![solution explorer]({{ '/assets/images/jquery-ajax-solution-explorer.png' | relative_url }})
 
 With the latest version in our solution we now need to reference it in our web page so that we can actually use it.
 
@@ -147,7 +147,7 @@ After that we are creating a marker in the form of the cross-hair image we added
 
 If you run the application now you should see something like this (you should be able to see the cross-hairs in the Leeds area):
 
-![initial mapping view]({{ site.url }}/assets/images/mapping-example.png)
+![initial mapping view]({{ '/assets/images/mapping-example.png' | relative_url }})
 
 You should be able to pan the map around, zoom in/out and change the map type to your hearts content but the latitude and longitude values will not update and clicking on the button won’t do anything yet.
 
@@ -246,7 +246,7 @@ What we are doing here is binding a `jQuery $.post()` function to the Save butto
 
 With all this in place we are ready to go – run the application and pan/zoom to a location of your choice (it will probably by your house!) and then click Save. All things being equal you should see a Success message and if you navigate to the project location you should also find a file called coordinates.txt which will contain the saved values.
 
-![updated mapping view]({{ site.url }}/assets/images/mapping-example-2.png)
+![updated mapping view]({{ '/assets/images/mapping-example-2.png' | relative_url }})
 
 To test for an error condition we will edit the Page_Load event in the CoordinateHandler code behind file. Change the using statement for the StreamWriter so it looks like this:
 
@@ -257,8 +257,8 @@ By removing the Server.MapPath call the application will now try to save the fil
 
 Run the application again but this time without debugging enabled, either from the Debug menu or by pressing `CTRL+F5` – this will stop Visual Studio from interrupting when the exception gets thrown. This time when you click save the error message should be displayed as below.
 
-![updated mapping view with error]({{ site.url }}/assets/images/mapping-example-3.png)
+![updated mapping view with error]({{ '/assets/images/mapping-example-3.png' | relative_url }})
 
 So there we have it – a simple way to send data to the server using the AJAX capability of jQuery.
 
-[You can download the working source code from here]({{ site.url }}/assets/downloads/JQueryAJAX.zip)
+[You can download the working source code from here]({{'/assets/downloads/JQueryAJAX.zip' | relative_url }})
