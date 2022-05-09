@@ -31,6 +31,6 @@ So which do I use, Azure or Github? Well, as I have a couple of blogs on the go,
 
 Because this blog has a lot more images and code snippets requiring syntax highlighting etc I'm using Visual Studio Code to write this post using Markdown with Jekyll to generate the post pages etc.
 
-I'm currently publishing this blog to the <a href="https://onthefencedevelopment.github.io" target="_blank">built-in Github Pages url</a> but will be repointing the <a href="https://www.onthefencedevelopment.com" target="_blank">On The Fence Development</a> domain here in due course.
+I'm currently publishing this blog to the <a href="https://onthefencedevelopment.github.io/OnTheFenceDevelopment-github.io" target="_blank">built-in Github Pages url</a> but will be repointing the <a href="https://www.onthefencedevelopment.com" target="_blank">On The Fence Development</a> domain here in due course.
 
 I'll be blogging about my progress with both options and 

@@ -81,7 +81,7 @@ protected void GridView1_RowUpdated(object sender, GridViewUpdatedEventArgs e)
 ```
 So, how do I know that the Edit button will be called LinkButton1? Well by default when a CommandField is added to a GridView there is no way of knowing – so you have to convert the field into a Template field instead.
 
-![field editor](/assets/images/dirtycheck_templatefield.jpg)
+![field editor]({{ site.url }}/assets/images/dirtycheck_templatefield.jpg)
 
 With this code in place clicking on the Edit button sets the page in Edit mode and the ‘Unsaved Changes’ dialog is not displayed. If they make changes to the data fields and click OK then the flags are reset accordingly. Now we just need to handle the situation where the user clicks on the Cancel button of a row in Edit mode. Adding the following code to the RowCancellingEdit event sorts that out:
 ```csharp
