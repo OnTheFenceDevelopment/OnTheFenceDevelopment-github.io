@@ -15,6 +15,12 @@
 	"Link" : {
 		"prefix": "link",
 		"body": ["<a href='${1:url}' target='_blank'>$0</a>"],
-		"description": "Regular Links to enw Tab"
+		"description": "Regular Links to new Tab"
+	},
+	"Internal Post Link": {
+		"prefix": "plink",
+		"body": "[${1:text}]({% post_url ${2:post markdown} %})",
+		"description": "Internal Link to a Post"
+
 	}
 }
