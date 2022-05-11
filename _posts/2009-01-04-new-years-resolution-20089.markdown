@@ -2,6 +2,7 @@
 layout: post
 title:  "New Years Resolution 2008/9"
 date:   2009-01-04 00:00:00
+tags:   resolutions
 ---
 Like many other people around the world I have made numerous New Years resolutions over the years and come March they are all but forgotten. Now I don’t smoke and I don’t drink (to excess anyway) but I do carry a few extra pounds around with me – and they have been there for a few years now despite numerous “I will eat less/better this year” resolutions.
 

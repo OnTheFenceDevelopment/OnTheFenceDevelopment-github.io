@@ -1,0 +1,58 @@
+import feedparser
+import fileinput
+import os
+import string
+
+import urllib
+# Download the RSS Feed and save to local file
+file = urllib.urlopen("http://feeds.feedburner.com/UbuntuPodcastVideo")
+text = file.read()
+#fileObj = open("feed.xml","w")
+#fileObj.write(text)
+
+feed = feedparser.parse(text)
+
+emailBody = ""
+print feed["channel"]["title"]
+
+# Process Each Episode
+for item in feed["entries"]:
+    encLocation = item["enclosures"][0]["href"]
+    encLength = item["enclosures"][0]["length"]
+
+    # Check Location against History
+    downloaded = 0
+    for line in fileinput.input():
+        if encLocation in line:
+            # This Episode has been downloaded already
+            downloaded = 1
+
+    # It's crude but is works (yes I know it reads the whole list for each episode but needs must)
+    if downloaded == 0:
+	# Download Episode
+	downloadFilename = encLocation[encLocation.rfind("/")+1:]
+	convertFilename = downloadFilename[:downloadFilename.rfind(".")] + ".mp3"
+	os.system("wget -O " + downloadFilename + " " + encLocation)
+	# Update History File
+        fileObj = open("history.txt","a")
+        fileObj.write(encLocation+"\n")
+	# Convert Episode to MP3
+	os.system("ffmpeg -i " + downloadFilename + " " + convertFilename)
+
+	# Copy/Move to More Suitable Location for RSS
+	# TODO: Could move to /media/shared to allow access via Samba but really want in accessible via iTunes
+
+	# Delete Downloaded File
+	os.remove(downloadFilename)
+
+	# Update Local RSS Feed
+	# TODO: Need to determine required format etc for RSS feed that iTunes will read
+
+	# Update EMail Body
+	emailBody += item["title"] + " has been downloaded to " + downloadFilename + ".\n"
+	
+# Would now Send a Notification EMail
+os.system("echo " + emailBody + " | mutt -s 'New Podcast Downloaded' <your email address in here>")
+
+
+

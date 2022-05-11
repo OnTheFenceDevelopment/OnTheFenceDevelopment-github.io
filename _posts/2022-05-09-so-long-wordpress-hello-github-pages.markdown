@@ -4,8 +4,8 @@ title:  'So long Wordpress, Hello Github Pages'
 date:   2022-05-09 00:00:00
 tags:   wordpress github github-pages hosting
 ---
-Over the years I have used many different platforms to serve up this blog including, Wordpress, Joomla!, Drupal and SquareSpace. At the time of writing I'm hosting it on Wordpress.com (using Wordpress obviously).
-
+Over the years I have used many different platforms to serve up this blog including, Wordpress, Joomla!, Drupal and SquareSpace. At the time of writing this post I'm hosting it on Wordpress.com (using Wordpress obviously) but this post will never appear there. Why?
+<!--more-->
 The blog started live as an aide memoire for myself so that I could save myself the time trawling the Internet when I'd managed to resolve some issue or other. When I branched out as an Independant Contractor I extended it to become my company website giving me a web presence allowing clients to see what I've been working on.
 
 After nine years of contracting and as a result of the Covid-19 pandemic essentially closing down the market here in the UK I decided to return to 'normal' employment so the site reverted back to the blog is started out as.
