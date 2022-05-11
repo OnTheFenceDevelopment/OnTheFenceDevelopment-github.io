@@ -6,7 +6,7 @@ tags:   linux ubuntu
 ---
 Like most Ubuntu ‘geeks’ I have a box running the Server edition, just to play around on – mine is in the garage and performs some of the mundane tasks I’ve blogged about in the past, e.g. updating my OpenDNS and DynDNS settings when my external IP address changes and pinging the kids computers so I know when time the ‘really’ shut down last night.
 However, I’m a worlds away from a sysadmin who works in the command shell all the time – I like my GUIs and tend to tread around the command line like its a bad tempered dog. So without the good old Update Manager and not wanting to blow the whole installation away and start again, how do I upgrade my system to the recently released 10.04 Lucid Lynx?
- 
+<!--more-->
 Now a lot of us already play around with apt-get on the command line instead of using the Synaptic Package Manager in the desktop. Not sure why I flip between the two – maybe just when I know the name of the package I need I find it more straightforward (and maybe quicker) to enter it into the command line.
  
 The question is – how do I perform a distribution upgrade?
