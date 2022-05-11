@@ -1,0 +1,33 @@
+---
+layout: post
+title:  'I, Android'
+date:   2010-02-17 00:00:00
+tags:   android
+---
+So I was in the market for a new mobile phone and being the geek that I am, it had to be a Smart Phone of some description – but which one?
+
+The iPhone is the obvious choice for many but while it cannot be denied that it is a fantastic piece of kit but I really don’t like the fact that I’d be tied to iTunes, and therefore Windows/Mac! Add to that the fact that I’m probably going to want to write applications for the device and that I don’t know Objective C the learning curve to develop even simple applications is going to be quite steep. Then there is the licence restrictions on the use the the SDK and conditions for deployment of applications to the App Store – from what I can make out you have to use a Mac, which I don’t have. All in all, the iPhone is not an option for me.
+<!--more-->
+I turned my attention to the Android phones in general and the HTC Hero in particular. I liked the look of the phone itself and had heard a lot of good things about the device (along with a handful of problems it has to be said!). Android is an Open Source operating system which is based on the Linux kernel and this appeals to me as a Linux [Ubuntu] user. The SDK is essentially Java based with a little python thrown in (both of which I know), it can be used on Mac, Windows and Linux so I can develop and install applications directly to the phone.
+
+The final factor in my decision to buy the HTC Hero was, trivially enough, that nobody else at work had or wanted one. There are a few Apple fan boys in the office along with a Blackberry or two – but no Androids, so I felt it was time to change that 😉
+
+So what is life like with the Hero? Well on the whole I’m loving it and it is by far the best phone I’ve ever owned although there are a few niggles that I’ve yet to sort out – some quite annoying.
+
+The thing I hate about getting a new phone is having to enter all of my contacts but with the Hero I was pleased to find that after I’d entered my Google account details all of my Google contacts were already in my address book. I also had access to my GMail which was not something I had ever had on a phone before (yes I know … welcome to the noughties!). Weather forecasts were on my Home screen and then there was Google Maps to utilise the built-in GPS so I was pretty happy.
+
+The touchscreen was quite snappy but had a little bit of a delay when swiping between home screens. Turns out that there was a firmware upgrade for this and once I’d installed that (pretty painless really) the phone was a joy to use.
+
+Well it was not all sugar icing and cherries on top – there were some annoyances, some of which I’ve resolved or worked around and some are still on my To Do list.
+
+I’d wanted to use the phone as a SatNav but frankly using Google Maps and the built in GPS just doesn’t cut it for me. Ok, Google Maps can route me from point A to point B and provide Turn By Turn directions in text form and also as a moving GPS overlay – but it doesn’t speak to me. Yeah, yeah big deal what should I expect for nothing?
+
+Well there are other problems; as you drive along your route it does not update your position in the text version of the directions – why not? The phone knows where it is so why can’t Google Maps keep my position in the directions up to date? That’s a fail in my book. I also wanted the SatNav for a trip to France I had coming up – and with the cost of International [Roaming] Data Charges being in the order of £3/MB I was concerned about the cost of using Google Maps – which pulls the maps down over the air. I needed an alternative which placed the maps on the phone and did not rely on the mobile internet – at all! The answer was CoPilot which I purchased from the Android Market. I’m going to dedicate a post entirely to my CoPilot experiences but I can say that I am generally happy with the application – yes there were a few problems but I’m safely back from France and made everywhere I needed to.
+
+The next concern was about my 500MB monthly data allowance be chewed up by applications like GMail and Facebook running in the background and constantly checking for updates. To that end I’ve configured Facebook and my Twitter client to check for updates only when I tell them to. Maybe this is defeating the object of this phone a little but to be honest, do I need to know about every incoming tweet? On the other hand I did want to keep up to date with my email so I’ve left GMail updating every 15 minutes. Maybe I’ll review these settings in a couple of months when I get a better handle on the data usage.
+
+That but by no means least, I have a problem with the Wifi. I can detect and connect to my secure Wifi in the house no problem – but for some reason, when I switch the Wifi on the phone on the Internet connection becomes unstable. In a [previous post]({% post_url 2009-06-17-tweeting-my-external-ip-address-ubuntu-server %}) I mentioned problems I had with the connection dropping and the development of a script which runs on my Ubuntu server in the garage that emails me when the external IP address changes. Well, within a few minutes of me turning the WiFi on and accessing the Android Market I was greeted with ‘Network Errors’ and started to get the IP Address Changed emails (obviously once the connection had re-established). The bug question is – why?
+
+I’ve left the Wifi turned off for a couple of days and the connection appears to be stable. When I went to France recently – again no emails. So how can a phone on one side of the router cause the connection to drop on the other? I’ve read about the Hero not liking ‘N’ compatible routers but that doesn’t apply to me so I’m at a bit of a loss. I have no problem buying another router if that’s the problem but don’t want to throw my money at something that is not going to fix the problem.
+
+Anyway, that’s enough rambling. I’m sure I’m going to have plenty more to say about this phone over the next few months, maybe even an application or two (there are some itches I’d like to scratch already).

@@ -1,0 +1,20 @@
+{
+	"Post Front Matter" :{
+		"prefix": ["fmp"],
+		"body": [
+			"---",
+			"layout: post",
+			"title:  '${1:title}'",
+			"date:   ${2:yyyy}-${3:mm}-${4:dd} 00:00:00",
+			"tags:   ${5:tag(s)}",
+			"---",
+			"$0"
+		],
+		"description": "Post Front Matter"
+	},
+	"Link" : {
+		"prefix": "link",
+		"body": ["<a href='${1:url}' target='_blank'>$0</a>"],
+		"description": "Regular Links to enw Tab"
+	}
+}

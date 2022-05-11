@@ -7,7 +7,7 @@ tags:
 I have a reseller account with my hosting provider which allows me to manage multiple domains (this being one of them) and also provides email services for each of them. The thing is that the two webmail clients it provides, Horde and SquirrelMail are [frankly] clunky and long winded to access – the latter being an issue with the implementation rather than the applications themselves.
 
 To login I need to provide a full email address as the username (any you can see how long this domain name is) and a password. Then I’m presented with the option of loading Horde or SquirrelMail as well as enabling Auto Load the selected application. If I select SquirrelMail then I’m taken directly to my Inbox but if I select Horde then I’m presented with a ‘language selection’ screen which also contains a Login button. While SquirrelMail is a basic email client Horde also has a Calendar, Notes, Tasks and a News Reader – but they both look a little dated.
-
+<!--more-->
 Now while I can handle the login process and live with dated interface it’s not something I would like to provide to other users – I’m just worried that I will get phone call after phone call about how to use the applications and complaints about the user experience.
 
 I have a domain which will soon be hosting a WordPress blog that my girlfriends daughter will be using to keep in touch while she is working abroad for six months before starting her college studies. I didn’t feel comfortable giving her the standard email client offerings so decided to configure AtMailOpen instead.

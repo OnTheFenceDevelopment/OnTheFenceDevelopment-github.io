@@ -5,7 +5,7 @@ date:   2009-09-25 00:00:00
 tags:   python ffmpeg
 ---
 I listen to a number of podcasts on a regular basis, mainly programming related, during my 45 minute commute to and from work every day. Now almost all of them are downloaded in audio format but recently the Ubuntu Podcast as stopped posting these formats. In a recent episode (#32) Joel and Nick explained they reasoning behind this and I fully support them in their decision – I mean, it’s an overhead for them in terms of time and storage/bandwidth. Add to that the fact that I can still subscribe via iTunes and some would wonder why I’m making a fuss (which I’m not btw!).
-
+<!--more-->
 Well the fact of the matter is that it both illegal and dangerous to watch a video podcast on an iPod Nano while driving at 70mph down the motorway. Add to that the fact that each of the main episodes is 500MB and my Nano has ‘only’ 8GB to play with and i have a few reasons for wanting an less-heavyweight version.
 
 So what exactly do I need to do to get the podcast down to my iPod in audio format (let’s face it, I’m gonna use MP3 for initial development).

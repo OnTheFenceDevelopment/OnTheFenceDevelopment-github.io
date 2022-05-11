@@ -5,7 +5,7 @@ date:   2009-09-25 00:00:00
 tags:   windows-7 linux ubuntu
 ---
 In an [earlier post]({% post_url 2009-01-05-dual-booting-vista-and-ubuntu %}) I detailed the upgrade of my Vista partition to Windows 7 Eval and how smoothly the process went. Well I’m afraid that the shine has gone off Windows 7 and after looking at the upgrade prices I’m hacked off enough to say that I’ll not be bothering.
-
+<!--more-->
 I upgraded my laptop from XP to Vista because I was starting a new job and it’s what they used – so I thought I should get up to speed before I started. I later configured the laptop to Dual Boot with Ubuntu but Vista was always my default Operating System – if I wanted to boot into Ubuntu then I had to remember to wait around for the Boot Menu instead of just turning it on and walking away. Recently I was lured into installing Windows 7 and at first I was quite impressed and do admit that it is a massive leap from XP (and probably Vista). As most people say, it is what Vista should have been.
 
 The problem I have is that all this has happened in about 18 months and I resent the fact that I’m now ‘expected’ to cough up another £140 for an upgrade. What’s more infuriating is that this is only £10 cheaper than buying the full version, i.e. not an upgrade. What is going to happen in another 18 months – will I have expected to put my hand in my pocket for another £140 for Windows 8? Not a chance, they can take it from my cold, dead hands!
