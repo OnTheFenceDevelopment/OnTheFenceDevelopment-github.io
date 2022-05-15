@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Making Progress with Static Blog'
-date:   2022-05-15 00:00:00
+date:   2022-05-13 00:00:00
 tags:   github-pages jekyll
 ---
 Moving from Wordpress to a Github Pages static blog has been going pretty well with over 30 posts migrated across. This may not sounds like a lot but I've been making my way up the learning curve, configuring and experimenting with Jekyll (the static site generator) and getting my Visual Studio Code workspace working well.
