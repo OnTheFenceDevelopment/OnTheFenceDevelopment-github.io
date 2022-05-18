@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Skobbler SatNav for Android: First Impressions'
+date:   2010-09-06 00:00:00
+tags:   android sat-nav
+---
+One of the reasons I bought a smartphone was to use it as a SatNav – thus removing the need to carry around two devices. I’d heard that Android phone came with turn-by-turn navigation – for free! However, I didn’t really do my homework and bought a HTC Hero. Not that there was anything wrong with the phone itself, but it was running Android 1.5 which didn’t have the functionality I wanted. With a trip to France looming I bought CoPilot 8.0 for Android with the Europe maps and apart from a few, minor niggles I’ve been quite happy with it. However, just because I have one SatNav application doesn’t mean I can’t have another – I’m a gadget junkie after all.
+<!--more-->
+When my Hero was updated to Android 2.1 I was pleased to find that I now had the turn-by-turn navigation which I probably use a little bit more that CoPilot when I’m in the UK. Why? Well it just seems to be a bit snappier and easier to use – that said, when I was on holiday in Portugal this year I was glad to have my CoPilot as it stores the maps locally so I did not incur any data charges (£3/MB – no thank you Orange!).
+
+So I should be fine with two SatNav applications … shouldn’t I? Well until I heard about Skobbler I was, and there’s always room for one more isn’t there, or is three a crowd?
+
+Well mapping data is extremely expensive to licence and being into Open Source software I’ve be contributing (albeit in a small way) to a project called OpenStreetMap which aims to provide freely accessible maps of the world. I’ve only been updating and maintaining my town but it’s no mean feat I can tell you. Now, not withstanding the potential for roads being missing or not flagged as being one-way etc wouldn’t it be good if this freely accessible data could be used to produce a cheap (or even free) SatNav application. Enter Skobbler! It implements OpenStreetMap mapping data and this is probably what makes it free (on Android at least). So is it any good? Well, yes and no!
+
+So that most important question is “how is the navigation?”, well it’s ok – but …. when you approach a roundabout the voice prompt is always (and I mean always) ‘Take the First Exit’ – even when the graphic on the screen is clearly showing the route as being the second or third exit. This is a serious issue and needs to be resolved.
+
+The only other issue I have with the application itself is that the roundabout helper icon in the bottom left corner of the screen  assumes that you are driving on the right, which is frowned on in the UK.  This is a minor issue and easily fixed – once the developers know that there is an issue – bearing in mind that the developers appear to be German, it probably looks fine to them.
+
+Well, it’s Open Source so all I need to do is to report the bug yes – well I have (<a href='http://forum.skobbler.com/showthread.php?396-Reporting-Non-Mapping-Bugs' target='_blank'>see here</a>) and hopefully these issues will be resolved in the not too distant future. On the subject of reporting bugs, this needs to be looked at by the people at Skobbler. Mapping bugs can be reported directly from the application but what about bugs in the application itself? Well I posted to the forum and was told (four days later) that they would investigate but it was not obvious that this was the right place to do this.
+
+On the subject of the website, the experience is not great! It keeps switching to German, the Add Location functionality in the My Skobbler area just returns you to the Home Page and you have to register for the forum separately (your normal login does not provide access). I was also surprised to see the the site makes use of Google Maps, not Open Street Map! There may be a good technical reason for this but I can’t think of one off the top of my head!
+
+So overall what do I think? Well it’s great to see someone making use of the Open Street Map data and providing a totally free SatNav application for both Android and iPhone. The couple of issues I’ve mentioned above should not detract from the fact that Skobbler is a pretty capable application – but it’s no match for Google Navigation (also free on Android 2.1+). That said, I’m not going to give up on it quite yet. I’m keen to see the product progress and will be looking out for an update to fix the roundabout issues.
+
+>Update [10/09/2010] : Well a couple of days ago there was an update in the Android Market which I duly installed and am happy to say that the roundabout issues are now resolved. The ‘first exit’ glitch has gone and the little helper icons are now configured for driving on the left (or the right side of the road as we say in the UK). I’ll use the upgraded application for a couple of weeks and see how I get on.

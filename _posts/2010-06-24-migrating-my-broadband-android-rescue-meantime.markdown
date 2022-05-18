@@ -1,0 +1,13 @@
+---
+layout: post
+title:  'Migrating my Broadband – Android to the Rescue in the meantime.'
+date:   2010-07-24 00:00:00
+tags:   android broadband
+---
+Ok, so it’s no secret that I’m not impressed with the Broadband service from TalkTalk; the connection speed is pretty good but it is unstable – dropping sometimes dozens of times a day. This is just too frustrating for words and the TalkTalk Technical Support is frankly a joke! Anyway, one day I  was trying to download the Ubuntu Lucid Server ISO and was having numerous connection drop outs when a Sky salesman knocked on my door. Now normally I would not entertain these intrusions into my evenings but today was different. To cut a long story short, I signed up for the TV, Phone and Broadband services.
+Knowing that I would lose the broadband when the phone switched over I was prepared for a couple of days downtime but how was I going to cope? Well as it happened I have a HTC Hero phone and it was very recently upgraded to the official Android 2.1 release – and when I plug it in to my laptop I get a number of options including Charge Only, Mount as Disk Drive or Internet Sharing!
+<!--more--> 
+Surely not, it’s not going to be that easy surely. Well, yes it is actually! I connected the phone to my Laptop [running Ubuntu Lucid] via USB and selected the Internet Sharing option. Within a couple of seconds the network manager started pulsing and a notification popped up saying ‘Auto usb0 Connection Established’. So far so good – but could I really surf the internet?
+I fired up Firefox and sure enough my homepage (Google) was displayed; but couldn’t this be a cached page? I duly logged into my GMail account and there is was! I have to say that I was pleasantly surprised – I mean, I’d not installed any additional Apps on the phone or any packages on the laptop; it just worked.
+ 
+Now, I’ve not tried it on Windows yet (I boot into Vista/XP about once a month) so it may well be as seamless there too but the fact is that my humble HTC Hero running Android 2.1 has filled the gap in my broadband service. Ok, it’s not as fast as my TalkTalk connection was and I have a 500MB monthly limit but then it’s fast enough and I only really need to access my email and social networking and while I can do that on the phone itself I prefer the keyboard and screen of the laptop when I’m writing blog posts (like this one) and when I have a lot of email to get through (I’ve just got back from two weeks annual leave and don’t access it while I’m on holiday if I can help it!).

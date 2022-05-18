@@ -20,7 +20,12 @@
 	"Internal Post Link": {
 		"prefix": "plink",
 		"body": "[${1:text}]({% post_url ${2:post markdown} %})",
-		"description": "Internal Link to a Post"
+		"description": "Link to an Internal Post"
 
+	},
+	"Download Link": {
+		"prefix": "dlink",
+		"body": "[${1:text}]({{'${2: path}' | relative_url }})",
+		"description": "Link to an Internal Download"
 	}
 }

@@ -1,0 +1,83 @@
+# Remove this comment and leading // from line below (Blog didn't like uploading php files!)
+<?php
+/**
+ * Plugin Posting to PingFM using a group and authorised user list....
+ *
+ * @category Plugin
+ * @package  Statusnet
+ * @author   David C @dilbertdave
+ * @license  Do as you please :-)
+ * @version  PingFmPlugin.php,v 0.1
+ *
+ */
+
+if (!defined('STATUSNET')) {
+    exit(1);
+}
+
+class PingFmPlugin extends Plugin
+{
+
+    /**
+     * constructor
+     */
+    function __construct()
+    {
+        parent::__construct();
+    }
+
+    function onStartNoticeSave($notice)
+    {
+        // Events can be fired off here when a notice is about to be saved
+    }
+
+    function onEndNoticeSave($notice)
+    {
+        // This event will fire once the notice has been saved
+
+        // Was the notice sent to the !pingfm group
+        $pos = strpos($notice->content, '!pingfm');
+        if($pos !== false) {
+
+            // If so, resolve the list of 'authorised' PingFM posters and match to the appropriate PingFM user
+            // # Need PHP function to read usermappings file into a local array
+            //      username:application_key
+            //      jbloggs:62228f3fb09b60cc73c34d6dd8149fe9-0987654321 
+            
+            $userFile = file_get_contents('/var/www/statusnet/local/userMappings.txt');
+            $userMappings = explode(";",$userFile);
+            $user = common_current_user();
+
+            // ... check for matching username
+            foreach($userMappings as $mapping) {
+                if(strpos($mapping,$user->id) !== false) {
+                    // The mapping will be in the form username:pingfm_application_key
+                    //  split these out into an array
+                    $userDetails = explode(":",$mapping);
+                    // $userDetails[0]: Username
+                    // $userDetails[1]: PingFM User Application Key
+                    
+                    // Trim off the !pingfm group 'tag'
+                    $trimmedNotice = str_replace('!pingfm','',$notice->content);
+                    
+                    $curl = curl_init('http://api.ping.fm/v1/user.post');
+                    $curl_post_data = array(
+                                "api_key" => "<YOUR DEVELOPER APPLICATION KEY IN HERE>",
+                                "user_app_key" => $userDetails[1],
+                                "post_method" => "default",
+                                "body" => $trimmedNotice,
+                                );
+                    
+                   curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+                   curl_setopt($curl, CURLOPT_POST, true);
+                   curl_setopt($curl, CURLOPT_POSTFIELDS, $curl_post_data);
+                   $curl_response = curl_exec($curl);
+                   curl_close($curl);
+
+                }
+            }
+        }
+    }
+}
+    
+    

@@ -6,8 +6,8 @@ tags:   linux ubuntu android eclipse
 ---
 As previously posted I have recently bought myself a nice new Android phone – a HTC Hero to be precise. One of the main reasons for buying it was so that I could look into developing applications for this new platform, thus expanding my skill set.
 
-I had been playing around with installing the Eclipse IDE (arguably the best Java IDE around) and the Android SDK on my previous Ubuntu installation and basically made a hash of it a few times. Having refined my process I’ve decided to write it down so that I don’t forget ;-
-
+I had been playing around with installing the Eclipse IDE (arguably the best Java IDE around) and the Android SDK on my previous Ubuntu installation and basically made a hash of it a few times. Having refined my process I’ve decided to write it down so that I don’t forget ;-)
+<!--more-->
 Following my clean installation of Ubuntu 10.10 I needed to get my development environment sorted out, and this meant installing Eclipse and the Android SDK and then wiring them both together.
 
 When <a href='https://www.eclipse.org/downloads' target='_blank'>downloading the IDE</a> I opted for the ‘Eclipse IDE for Java Developers’ because essentially Android is a set of libraries built on top of Java, so it seemed like a good place to start. Note that I’m using Eclipse 3.6 (Helios) for my development.
