@@ -101,7 +101,7 @@ if ((geoPoint.getLatitudeE6() > mapTopGeo && geoPoint.getLatitudeE6() < mapBotto
 }
 ```
 
-At this point Eclipse will complain about the R.drawable.markerblue argument we used when declaring and instantiating the marker bitmap. This is because it does not exist in the project yet. You can download it from here and save it to a folder called drawable within the res folder of the project (if the drawable folder is not present in the folder structure then just create it). You may have to refresh the project afterward by right clicking on it in the Package Explorer and clicking Refresh.
+At this point Eclipse will complain about the R.drawable.markerblue argument we used when declaring and instantiating the marker bitmap. This is because it does not exist in the project yet. You can [download it from here]({{'/assets/images/markerblue.png' | relative_url }}) and save it to a folder called drawable within the res folder of the project (if the drawable folder is not present in the folder structure then just create it). You may have to refresh the project afterward by right clicking on it in the Package Explorer and clicking Refresh.
 
 The completed overlay code should look like this:
 
@@ -169,11 +169,13 @@ These simply create a new instance of the overlay and add it to the MapView over
 
 We can now run the application and see where in the world we have placed the marker.
 
-If you pan and zoom into the marker location you will see that it is located in the East of Scotland at what appears to be quite an uninteresting location – but it is actually Scotlands Secret Bunker, which is of course not much of a secret anymore 😉
+![running application](/assets/images/running_application_1.png)
+
+If you pan and zoom into the marker location you will see that it is located in the East of Scotland at what appears to be quite an uninteresting location – but it is actually <a href='http://www.secretbunker.co.uk' target='_blank'>Scotlands Secret Bunker</a>, which is of course not much of a secret anymore 😉
 
 So what have we done here? Well, in just over 50 lines of code we’ve created an overlay class which will add a marker to a map surface using latitude/longitude coordinates. Ok the class is a bit contrived with a hard coded location but it can easily be extended to create markers for a collection of locations, bearing in mind that only those that fall within the viewable area of the map will be rendered.
 
-Click here for the working project for this instalment, remember you’ll need to add your Google Maps API key.
+[Click here for the working project for this instalment]({{'/assets/downloads/androidmaps101_pt3.zip' | relative_url }}), remember you’ll need to add your Google Maps API key.
 
 If you have any problems with the project or notice something wrong with the code or the blog post then please leave a comment to let me know.
 
