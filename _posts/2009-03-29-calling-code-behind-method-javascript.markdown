@@ -5,7 +5,7 @@ date:   2009-03-29 00:00:00
 tags:   vb.net javascript
 ---
 
->While this page is still popular [I have blogged about an alternate method for sending data from client to server using Javascript]({% post_url 2021-04-03-using-client-side-jquery-send-data-server-side-net %}). You may want to check that out while you are here.
+>While this page is still popular [I have blogged about an alternate method for sending data from client to server using Javascript]({% post_url 2012-04-03-using-client-side-jquery-send-data-server-side-net %}). You may want to check that out while you are here.
 
 It shouldn’t be too hard should it? You want to use some Javascript on the client-side to call a method on in the Code-Behind of your aspx page – how hard can that be? Surely it must be possible.
 I was developing a DotNetNuke module (so the code below is VB.NET and not C#) which would allow the user to search for locations using Virtual Earth and store the latitude and longitude (as well as the zoom level) in a database.

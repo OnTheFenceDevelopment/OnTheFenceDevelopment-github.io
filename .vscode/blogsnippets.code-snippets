@@ -27,5 +27,14 @@
 		"prefix": "dlink",
 		"body": "[${1:text}]({{'${2: path}' | relative_url }})",
 		"description": "Link to an Internal Download"
+	},
+	"Code Highlight with Line Numbers": {
+		"prefix": "codeln",
+		"body": [
+			"{% highlight ${1:language} linenos %}",
+			"",
+			"{% endhighlight %}"
+		],
+		"description": "Code Block with Line Numbers"
 	}
 }
