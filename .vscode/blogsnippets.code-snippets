@@ -19,7 +19,7 @@
 	},
 	"Internal Post Link": {
 		"prefix": "plink",
-		"body": "[${1:text}]({% post_url ${2:post markdown} %})",
+		"body": "[${1:text}]({% post_url ${2:post markdown filename} %})",
 		"description": "Link to an Internal Post"
 
 	},

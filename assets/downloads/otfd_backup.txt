@@ -1,0 +1,44 @@
+# Remove this comment and leading # from line below (Blog didn't seem to like upload of a bash script!)
+##!/bin/bash
+
+# Need to resolve date to use as file datestamp
+today=$(date +%d.%m.%Y)
+echo "On The Fence Development Blog Backup" > otfd_blog_backup_$today.log
+echo "Date: $today" >> otfd_blog_backup_$today.log
+if [ -z "$(pgrep dropbox)" ]
+  then
+	echo "Dropbox Status: Not Running" >> otfd_blog_backup_$today.log
+  else
+	echo "Dropbox Status: Running" >> otfd_blog_backup_$today.log
+fi
+# First Backup the Database using mysqldump
+echo "Backing up MySQL Database" >> otfd_blog_backup_$today.log
+mysqldump onthefence_blog > [path to dropbox]/onthefence_$today.sql 2>>otfd_blog_backup_$today.log
+
+if [ $? != 0 ]; then
+	echo "Blog Database Backup Failed." >> otfd_blog_backup_$today.log
+	# Need to Send out EMail
+	echo "On The Fence Development Blog Backup Failed" | mutt -s "Blog Backup Failed" someone@somewhere.com -a otfd_blog_backup_$today.log
+	exit 1
+fi
+
+echo "MySQL Database Backed Up Successfully" >> otfd_blog_backup_$today.log
+
+# Now Create a Tarball of the Blog Folder
+echo "Creating Tarball of Blog Folder" >> otfd_blog_backup_$today.log
+cd /var/www
+tar -czf [path to dropbox]/onthefence_$today.tar.gz onthefence_blog 2>>otfd_blog_backup_$today.log
+
+if [ $? != 0 ]; then
+	echo "Blog Tarball Generation Failed." >> otfd_blog_backup_$today.log
+	# Need to Send Out EMail
+	echo "On The Fence Development Blog Backup Failed" | mutt -s "Blog Backup Failed" someone@somewhere.com -a otfd_blog_backup_$today.log
+	exit 1
+fi
+echo "Tarball Created Successfully" >> otfd_blog_backup_$today.log
+
+# If we get here then everything has executed successfully - send out email
+echo "On The Fence Development Blog Backup Succeeded - see attached log" | mutt -s "Blog Backup Successful $today" someone@somewhere.com -a otfd_blog_backup_$today.log
+
+# Housekeeping
+rm -f otfd_blog_backup_$today.log
