@@ -9,7 +9,7 @@ I was recently working on a freelance project which required interaction with a 
 While connecting to the service and fetching the data was a fairly trivial task, looking at the data being returned it was clear that a lot of POCO/DTO classes were going to be required.
 
 Obviously these are easy to create but they are time consuming and prone to the odd typo. I then remembered a labour saving service called <a href='https://app.quicktype.io/' target='_blank'>QuickType</a> which would take the returned JSON and generate the C# code for me – I just needed to pull it into my project.
-
+<!--more-->
 When you navigate to the QuickType site you are presented with some sample input data in the left panel and the resulting C# code in the main panel. There are also some options in the panel to the top right that we will need to tweak.
 
 ![quick type landing page](/assets/images/quick-type-1.png)
