@@ -2,7 +2,7 @@
 layout: post
 title:  'A New Freelance Project – and a Chance to Use .Net Core on Linux'
 date:   2018-03-30 00:00:00
-tags:   web-development freelance motorhone-stopover
+tags:   web-development freelance motorhome-stopover
 ---
 I was recently approached by a website owner, who had seen the FillLPG for Android application and wanted a similar mobile application, i.e. an app which displayed a number of points of interest on a map and allowed it’s users to select a location and have further details displayed.
 

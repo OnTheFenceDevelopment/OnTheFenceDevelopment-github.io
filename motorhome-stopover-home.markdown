@@ -27,14 +27,6 @@ If you encounter any problems while using the application, e.g. it crashes or di
 
 If possible provide screenshots of the application when you encountered the error and as many details as possible to assist with the subsequent investigations.
 
-<a href="http://play.google.com/store/apps/details?id=com.onthefencedevelopment.mhs" target="_blank">
-<img width="40%"  style="float: left;" src="{{ '/assets/images/play_store_badge_web_generic.png' | relative_url }}">
-</a>
-
-<a href="https://itunes.apple.com/us/app/motorhome-stopover/id1389793428?mt=8" target="_blank">
-<img width="40%" src="{{ '/assets/images/app-store-badge.png' | relative_url }}">
-</a>
-
 ### Release History
 
 |Version|Comments|Release Date|
@@ -45,3 +37,13 @@ If possible provide screenshots of the application when you encountered the erro
 |1.2.0|Password Recovery<br>Email and Call Stopover from the Details page<br>Open Stopover Website from the Details page<br>Updated Vehicle Length display on Details Page|17/10/2019|
 |1.1.1|Authentication updates to integrate fully with the new website|17/07/2019|
 |1.0|Initial Release|16/06/2018|
+
+<a href="https://play.google.com/store/apps/details?id=com.onthefencedevelopment.mhs" target="_blank" style="float: left;">
+    <img alt="Get it on Google Play" style="height: 100px" src="{{ '/assets/images/get-it-on-google-play.png' | relative_url }}"/>
+</a>
+
+<a href="https://apps.apple.com/us/app/motorhome-stopover/id1389793428" target="_blank" style="float: right;">
+    <img alt="Get it on the App Store" style="height: 100px" src="{{ '/assets/images/get-it-on-app-store.svg' | relative_url }}"/>
+</a>
+
+<div style="clear: both;"></div>

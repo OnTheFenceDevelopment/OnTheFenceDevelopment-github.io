@@ -26,9 +26,6 @@ Get it on Google Play
 
 <a href='http://www.originalsmite.com/' target='_blank'>Click here to find out more about Smite</a> or why not head over to the <a href='https://smite.bigcartel.com/' target='_blank'>Original Smite Shop</a> and buy your set now – and no, I’m not on commission 🙂
 
-http://play.google.com/store/apps/details?id=com.onthefencedevelopment.smitescoreboard
-https://itunes.apple.com/us/app/smite-scoreboard/id1433469346?mt=8
-
 ### Release History
 
 |Version|Comments|Release Date|
@@ -39,3 +36,13 @@ https://itunes.apple.com/us/app/smite-scoreboard/id1433469346?mt=8
 |2.1.1167|Maintenance & Bug Fix Release|12/10/2020|
 |2.0.1032|Addition of Team Play mode|17/01/2020|
 |1.0|Initial Release|04/09/2018|
+
+<a href="http://play.google.com/store/apps/details?id=com.onthefencedevelopment.smitescoreboard" target="_blank" style="float: left;">
+    <img alt="Get it on Google Play" style="height: 100px" src="{{ '/assets/images/get-it-on-google-play.png' | relative_url }}"/>
+</a>
+
+<a href="https://itunes.apple.com/us/app/smite-scoreboard/id1433469346?mt=8" target="_blank" style="float: right;">
+    <img alt="Get it on the App Store" style="height: 100px" src="{{ '/assets/images/get-it-on-app-store.svg' | relative_url }}"/>
+</a>
+
+<div style="clear: both;"></div>
