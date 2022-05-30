@@ -2,7 +2,7 @@
 layout: post
 title:  'A New Year Cometh'
 date:   2012-12-31 00:00:00
-tags:   resolutions
+tags:   resolutions looking-back
 ---
 So it’s New Years Eve and looking back at the last year I’m pretty happy with how it’s gone.
 Since deciding to leave the rat race that is permanent employment in favor of contracting I not been out of work for long and the short time between contracts has been useful for getting up to speed with new techniques and technologies. Nobody can know it all, it’s just not possible, so I carefully pick my fights in terms of what I invest time in learning.

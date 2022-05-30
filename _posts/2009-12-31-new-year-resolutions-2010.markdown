@@ -2,7 +2,7 @@
 layout: post
 title:  'New Year Resolutions 2010'
 date:   2009-12-31 00:00:00
-tags:   resolutions
+tags:   resolutions looking-back
 ---
 In my [first post on this blog]({% post_url 2009-01-04-new-years-resolution-20089 %}) I declared an intention to learn non-Microsoft languages and technologies so that I was equipped to handle both sides of the fence (hence the blog title). During the last year I have been looking at learning PHP using Drupal as a platform for my development. This is progressing well and I have a few mini-projects underway – more about those in future posts.
 <!--more-->

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  'Looking forward – building Android apps using C#'
+date:   2013-06-25 00:00:00
+tags:   xamarin android csharp
+---
+So, mobile is where it’s at, or at least that’s what we are told and there is plenty of evidence to back it up. I know from how much I use my Android phone and how much I rely on it that it is a development platform that can’t be ignored.  As you may or may not know I currently have an <a href='https://play.google.com/store/apps/details?id=com.onthefencedevelopment.fill_lpg' target='_blank'>app in the Android Play Store</a> and while it’s pretty simple in what it does it has had over 5000 downloads and has a rating of about 4.5 stars. But nothing in development stands still and it already looks dated, uses the old Google Maps API and contains a reasonable amount of code that I’m not happy with. The problem is that I’m a .NET developer and while I have developed with Java in the past it too has moved on and I constantly find myself Googling for solutions to problems I know how to address in C#. So when I saw that there was a tool that would allow me to write native Android applications using C# I thought – “What’s not to like?”.
+<!--more-->
+As with most new technologies though the learning curve is fairly steep, but I’m getting there. My initial aim is to rewrite the FillLPG application, from scratch using Xamarin and hopefully making it much easier to maintain. I want to use the latest version of the Google Maps API and make the application tablet friendly. Long term I want to get a few more applications into the Play Store (I’ve get a few ideas for applications that may be worth investing some time in) and in doing so add another string to my bow – as a contractor that has to be a good thing.
+
+My initial impressions of the Xamarin stack were not great as the Starter Edition (a free licence which imposes some limitations) refused to let me build anything, even the simplest of applications. A quick email to support followed by a prompt response and a new version was installed and I was away … almost. The starter edition restricts, among other things, the size of the application you can build and the use of third-party libraries. That sounds like it shouldn’t be too limiting but consider that the new version of the Google Maps API is caught by the 3rd party library and my investigations into how feasible it will be to rewrite my application appear to have taken a major step backwards – although there is a light at the end of the tunnel (more on that a little further down). It would also appear that creating a solution with multiple projects, e.g. FillLPG.DataAccess and FillLPG.Core, is not possible, presumably due to the projects being classes as third-party libraries. Frustrating yes but not a show stopper – although It’s ironic that some of the official Xamarin samples won’t build using the Started Edition because of these very limitations.
+
+In order to do any serious work with Xamarin it is clear that I’ll need to buy a ‘proper’ licence, which start at $299, and Xamarin do offer a 30 day money back guarantee. But there are two issues I have that will stop me from buying a licence right now.
+
+- I want to be able to use Visual Studio (so that I can make use of CodeRush during my development) and the licence that includes that support is $999
+- I need to make sure I have time to properly evaluate the tools to really see if they will do what I want to be able to do – because $999 isn’t what I’d call an impulse buy 😉
+
+<br>
+I’ve watched a few of the videos from the recent <a href='http://xamarin.com/evolve/2013' target='_blank'>Evolve conference</a> and it is clear that a lot of time, attention and money is being put behind Xamarin and I’m pretty confident that when I get a free couple of weeks to be able to devote to it, I’ll buy a licence and get coding – hopefully never looking back.
