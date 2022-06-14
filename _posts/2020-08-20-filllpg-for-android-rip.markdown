@@ -29,8 +29,8 @@ For the security conscious among you I have also included the MD5 hash of the in
 
 |Version|Filesize (of APK)|MD5 Hash|Link|
 |-------|-----------------|--------|----|
-|2.0.28.5|21.5MB|e3c2d29c89268688eb4a8f1524106d43|[Download]({{'/assets/downloads/filllpg_2.0.28.5-final.zip' | relative_url }})|
-|2.1.0.0|19.5MB|0b1bb57b27d0ad39514049ab8faeae6c|[Download]({{'/assets/downloads/filllpg_2.1.0.0-final.zip' | relative_url }})|
+|2.0.28.5|21.5MB|e3c2d29c89268688eb4a8f1524106d43|[Download](https://onthefencedevelopment-com-blog.s3.eu-west-1.amazonaws.com/filllpg_2.0.28.5-final.zip)|
+|2.1.0.0|19.5MB|0b1bb57b27d0ad39514049ab8faeae6c|[Download](https://onthefencedevelopment-com-blog.s3.eu-west-1.amazonaws.com/filllpg_2.1.0.0-final.zip)|
 
 I recommend copy/pasting the MD5 values as the font is making it difficult to tell zero’s from o’s (sorry about that).
 
