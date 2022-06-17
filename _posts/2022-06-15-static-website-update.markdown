@@ -4,11 +4,12 @@ title:  'Static Website Update'
 date:   2022-06-15 00:00:00
 tags:   github-pages jekyll
 ---
-Well today is a milestone in the mirgration of my blog from Wordpress to Github Pages.
+Well today is a milestone in the migration of this blog from Wordpress to Github Pages - I've (hopefully) transferred all posts as well as created the additional pages such as About and those for the mobile apps.
 
 The process has been pretty eye opening, reading the 160+ posts dating back to 2009, copy/pasting the content from my browser into Visual Studio code, saving the images and downloads and reformatting everything into markdown.
 
 I've split the process across my Windows 10, Mac and Linux devices with very little friction. Creating snippets in Visual Studio code to allow me to quick add markup elements for images, downloads and the Jekyll front matter section at the head of every post has sped up the process no end.
+<!--more-->
 
 ### So what's left to do?
 
