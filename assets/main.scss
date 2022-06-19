@@ -36,8 +36,6 @@
     margin-bottom: 0;
   }
 
-  ;
-
   .rouge-table {
     border: 0;
     border-color: transparent;
@@ -63,5 +61,21 @@
     padding-left: 0.5em;
     text-align: right;
   }
-
 }
+
+.pagination {
+  display: flex;
+
+  .previous, a.previous {
+    flex: 1;
+  }
+
+  .page_number {
+    flex: 1;
+  }
+
+  .next, a.next {
+    float: right;
+  }  
+}
+
