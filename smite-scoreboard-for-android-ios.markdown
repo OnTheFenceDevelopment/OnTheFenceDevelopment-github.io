@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  'Smite Scoreboard for Android and iOS'
+title:  'Smite Scoreboard'
 ---
 ![smite scoreboard app icon](/assets/images/smite_scoreboard_app_icon.png){:style="float:right; margin-left: 10px;"}
 

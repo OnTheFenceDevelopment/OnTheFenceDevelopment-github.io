@@ -27,5 +27,7 @@ The things I need (want?) to resolve are:
 - Search and Tag Cloud
     - I'm not quite sure how useful a Search will be - the Wordpress analytics shows that most visitors reach any particular post via something like Google so do I really, honestly need to provide a search facility? Probably not .. but I'm a little old school.
     - As for the Tag Cloud, well I've gone through the effort of adding tags to each post I may as well make use of them.
-- The 404 page
-    - While I've tried to keep the url format the same there's always that edge case - I want to give a few hints to let the vistor know that maybe adding .html (static site now remember) or dropping any trailing forward slash may get them where they want to go.
+- Comments
+    - I'm still undecided about this. Over the years a number of comments have been submitted (and largely responded to) but as the blog is now a static website there is no provision for commenting.
+    - According to the Akismet plugin on the Wordpress instance of the blog it was blocking a decent amount of comment spam so I need to bear this in mind
+    - Wondering whether I could use Jekyll data files to import existing comments (there's some good content in there) and then just ask visitors to leave comments via Twitter (or Mastodon of course)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  'Motorhome Stopover for Android & iOS'
+title:  'Motorhome Stopover'
 ---
 > This is a companion application for the Motorhome Stopover website – you will need an active subscription to use this app!
 
