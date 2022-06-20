@@ -1,0 +1,6 @@
+{
+    "date": "2009-03-26T11:31:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "This was not a problem in my scenario because sorting and paging were not enabled on the GridView controls I was working with.<br>Off the top of my head I would try using the same approach but code the Sorting and PageIndexChanging events to set the state of suitable variables. It starts to get clunky when you are trying to maintain isEditing, isPaging and isSorting variables but I couldn’t come up with a better solution at the time. Sorry I can’t be any more help…"
+}

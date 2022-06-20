@@ -7,10 +7,11 @@
 {% endfor %}
 {% assign comment_count = comments | size %}
 <div id="comments">
-    <h2>Comments</h2>
+    <h2 style="margin-bottom: 0;">Comments</h2>
+    <span style="font-size: 0.8em;">Comments are now closed</span>
     <h3 id="comment-count">{% if comment_count == 1 %}One response{% else %}{{ comment_count }} responses{% endif %}
     </h3>
-    <ol id="comments-list">
+    <ol id="comments-list" style="list-style-type: none; margin-left: 0;">
         {% assign sorted_comments = comments | sort: 'date' %}
         {% for comment in sorted_comments %}
         <li>
