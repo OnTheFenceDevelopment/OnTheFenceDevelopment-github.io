@@ -1,0 +1,6 @@
+{
+    "date": "2011-01-13T08:31:00.0000000+00:00",
+    "name": "Ian Douglas",
+    "avatar": "https://secure.gravatar.com/avatar/ac94d105d6a8421199e49493c05599e3?s=42&d=identicon&r=g",
+    "message": "I have been looking for the exact same thing; a better webmail interface than the ones that come with cPanel. I have a couple of questions for you: 1) when you say you install on root, you mean you can install on root of the folder of your domain? I have a shared account that allows multiple domains to be run off it. These are actually folders in the main account. So if I installed atMail in Mail folders within these folders, would I be able to have a new webmail system available for the domains I chose to install it on? 2) Were you making a WordPress plugin to integrate (or be able to evoke) this new webmail? If so, did you make progress, as I myself use WordPress, so it might help me.<br>Thanks for the write up!"
+}

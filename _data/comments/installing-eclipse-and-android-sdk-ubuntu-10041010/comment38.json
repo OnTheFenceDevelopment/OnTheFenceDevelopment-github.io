@@ -1,0 +1,6 @@
+{
+    "date": "2012-06-20T15:13:00.0000000+00:00",
+    "name": "Anonymous",
+    "avatar": "https://secure.gravatar.com/avatar/?s=42&d=identicon&r=g",
+    "message": "you may have success if you add the repository via the synatptic package manager instead.<br>for Ubuntu v. precise pangolin:<br>Applications -> System Tools -> Administration -> Synaptic Package Manager<br>or can launch synaptic from the terminal bu issuing the command:<br>gksudo synaptic<br>once you have launched synaptic, please look in the settings menu and select repositories.<br>you should look at the tabs in this menu, and select a dependency-containing repository from the available options."
+}

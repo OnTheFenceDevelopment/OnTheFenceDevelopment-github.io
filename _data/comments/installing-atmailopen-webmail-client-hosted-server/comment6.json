@@ -1,0 +1,6 @@
+{
+    "date": "2012-01-22T12:58:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Hi Dave,I think I stopped where I did for the same reason, there maybe a simple workaround but I didn’t need to pursue it, I was able to just tell my user to leave those fields alone.<br>I’ve not looked at the code for that page for quite a while now and the account/domain I configured this on is now dormant so i have nothing to test with but if I was looking at it now I would probably see if I could limit the options in the dropdown lists to just the default value in each and then hide the control itself.<br>Sorry I can’t be any more help – you could always post something on Stackoverflow (www.stackoverflow.com) or even contact AtOpenMail about it – this product is Open Source after all."
+}

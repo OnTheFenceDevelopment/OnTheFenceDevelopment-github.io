@@ -1,0 +1,6 @@
+{
+    "date": "2011-10-26T18:44:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "I’ve not encountered that one but it looks like it’s not an uncommon issue. Fortunately it should be easy to fix, take a look here [http://code.google.com/intl/es/eclipse/docs/faq.html#wstinstallerror] and let me know how you get on."
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2010-12-18T16:59:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "I found that using<br>sudo apt-get install sun-java6-jdk<br>would not install java for me, following these steps allowed it to install no problem<br>sudo add-apt-repository ppa:sun-java-community-team/sun-java6<br>sudo apt-get update<br>sudo apt-get install sun-java6-bin"
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2010-11-16T12:04:00.0000000+00:00",
+    "name": "Kenny",
+    "avatar": "https://secure.gravatar.com/avatar/60b24bdb337eac19e9cf261746f56738?s=42&d=identicon&r=g",
+    "message": "this is what i got? i am very new to java, ubuntu, and eclipse, but my command line doesnt seem to work for anything. and the books i ordered havent gotten here. so any help would be great. mackowski@ubuntu:~$ sudu apt-get install sun-java6-jdk<br>No command ‘sudu’ found, did you mean:<br>Command ‘sudo’ from package ‘sudo’ (main)<br>Command ‘sudo’ from package ‘sudo-ldap’ (universe)<br>Command ‘tudu’ from package ‘tudu’ (universe)<br>sudu: command not found<br>mackowski@ubuntu:~$ apt-get install sun-java-jdk<br>E: Could not open lock file /var/lib/dpkg/lock – open (13: Permission denied)<br>E: Unable to lock the administration directory (/var/lib/dpkg/), are you root?<br>mackowski@ubuntu:~$"
+}

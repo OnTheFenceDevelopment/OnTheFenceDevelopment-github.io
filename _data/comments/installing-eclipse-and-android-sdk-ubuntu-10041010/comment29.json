@@ -1,0 +1,6 @@
+{
+    "date": "2011-10-26T16:47:00.0000000+00:00",
+    "name": "mdendot",
+    "avatar": "https://secure.gravatar.com/avatar/b0e2f12050a1c051a49d6281d51979a3?s=42&d=identicon&r=g",
+    "message": "Cannot complete the install because one or more required items could not be found.Software being installed: Android Development Tools 14.0.0.v201110171935-205994 (com.android.ide.eclipse.adt.feature.group 14.0.0.v201110171935-205994)<br>Missing requirement: Android Development Tools 14.0.0.v201110171935-205994 (com.android.ide.eclipse.adt.feature.group 14.0.0.v201110171935-205994) requires ‘org.eclipse.wst.sse.core 0.0.0′ but it could not be found<br>Help :’( i’m newbie on Ubuntu"
+}

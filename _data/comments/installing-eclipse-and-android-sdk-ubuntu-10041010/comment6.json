@@ -1,0 +1,6 @@
+{
+    "date": "2010-09-09T21:26:00.0000000+00:00",
+    "name": "Kelpak Khemka",
+    "avatar": "https://secure.gravatar.com/avatar/399dc44c4ae6fa3f0e0c74739b213c8f?s=42&d=identicon&r=g",
+    "message": "Hello,<br>A simple addition : This whole process requires you to have Java5 SDK installed. So, for that you need to edit your sources.list file. Open up the terminal and type in “sudo nano /etc/apt/sources.list” . And at the end of the file, add this “deb http://us.archive.ubuntu.com/ubuntu/ jaunty main multiverse universe restricted” . And then save it and close the text editor. Now in the terminal, type > sudo apt-get update. After that >sudo apt-get install sun-jva5-jdk.<br>Hope this helps! ! Cheers to Dave! !<br>Regard,<br>Kalpak Khemka."
+}

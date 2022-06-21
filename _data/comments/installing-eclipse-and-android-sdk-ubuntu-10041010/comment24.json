@@ -1,0 +1,6 @@
+{
+    "date": "2011-10-21T08:19:00.0000000+00:00",
+    "name": "Anasko",
+    "avatar": "https://secure.gravatar.com/avatar/1e360f1fc56e3a54eca0c866150c1134?s=42&d=identicon&r=g",
+    "message": "Hello allafter installing SDK android then the Eclipse;<br>when i made install a new software inside elcipse a message appears after downloading about 50 % of the packages<br>“Cannot complete the install because one or more required items could not be found.<br>Software currently installed: Shared profile 1.0.0.1319176397402 (SharedProfile_epp.package.java 1.0.0.1319176397402)<br>Missing requirement: Shared profile 1.0.0.1319176397402 (SharedProfile_epp.package.java 1.0.0.1319176397402) requires ‘org.maven.ide.eclipse [1.0.100.20110804-1717]‘ but it could not be found”<br>thanks for the help<br>Anas"
+}

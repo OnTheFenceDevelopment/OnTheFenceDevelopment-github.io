@@ -1,0 +1,6 @@
+{
+    "date": "2010-09-10T09:02:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Thanks for the information Kalpak – however I think I have the OpenJDK v6 installed – I’ll have a look and make sure, good to know all the options.<br>I certainly don’t recall updating my sources.list file – but I may be having a senior moment at this end<br>[Update: Yep, only the OpenJDK v6 installed here and it looks like I did it from the Ubuntu Software Centre not via apt-get, so no update required in sources.list. Note that I have not really developed anything in Android in anger yet so I might find that the OpenJDK is not up to the task]"
+}
