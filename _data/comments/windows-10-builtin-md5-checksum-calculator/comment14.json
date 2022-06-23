@@ -1,0 +1,6 @@
+{
+    "date": "2020-11-24T12:13:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Thanks for your comment, but while MD5 may not be secure I think calling it ‘useless’ is going a bit far.<br><br><br>The article you link to is essentially highlighting that MD5 is no longer secure and shouldn’t be used to store passwords – and I absolutely agree with that, but that’s not a point of my post.<br><br><br>Many sites offer downloads and provide an MD5 hash to enable users to verify what they downloaded hasn’t been tampered with. Yes, it’s not a bulletproof process, a hacker could in theory change both the file and the corresponding hash, but in that scenario all bets are off anyway! If an MD5 hash is provided then this is a simple way to check it against the downloaded file.<br><br><br>The built-in tool can also generate SHA256/384/512 hashes mentioned in the article you linked to – so there is value in knowing that you don’t have to install yet another third-party application to achieve this."
+}

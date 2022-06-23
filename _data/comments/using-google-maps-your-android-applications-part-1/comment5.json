@@ -1,0 +1,6 @@
+{
+    "date": "2012-06-12T07:23:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Hi Eshan – I’m fortunate not to be behind a proxy but I’m not sure why this would cause you a problem. Are you absolutely sure that the API key is correct? As for the Factory Client error that may be a red herring – I see those in my logcat output too. Have you tried installing the application on a real device [I’ve another post here about that]? This will tell you if it’s the firewall/proxy causing your problems."
+}

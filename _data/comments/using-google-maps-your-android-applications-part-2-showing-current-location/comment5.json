@@ -1,0 +1,6 @@
+{
+    "date": "2012-12-27T09:03:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Hi Tika, That’s really odd – I’ve just downloaded the project, added my maps key and the maps are being displayed. If they are not displaying for you then I suspect a configuration issue at your end.<br>Things to check are: do you have an internet connection, have you changed the keystore (you’ll know if you changed it) that you are building against, have you pasted the maps key in correctly?<br>Try regenerating a key as detailed in part 1 – is it the same as before?<br>Let me know how you get on – I’ll do what I can to help."
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2013-05-03T05:07:00.0000000+00:00",
+    "name": "Ketherine",
+    "avatar": "https://secure.gravatar.com/avatar/3f6a4d4e2ee65410029d67cf7e02c5f4?s=42&d=identicon&r=g",
+    "message": "I’m new to android. When I create the android project, for built target I do not have the options to select Google API version but just the normal API version in the list. Only in the compile with field has the options for both Google API and normal API version. I’m not able to run the output in the emulator and shows error as **INSTALL_FAILED_MISSING_SHARED_LIBRARY**. I’m currently using android 4.2 Jelly Bean. Would be glad if someone can help me figure out my problem."
+}

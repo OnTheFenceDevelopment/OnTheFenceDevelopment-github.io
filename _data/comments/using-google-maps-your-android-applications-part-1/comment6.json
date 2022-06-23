@@ -1,0 +1,6 @@
+{
+    "date": "2012-06-12T13:20:00.0000000+00:00",
+    "name": "eshan",
+    "avatar": "https://secure.gravatar.com/avatar/dd33fb7ccb56af45dc55f038ec0b2964?s=42&d=identicon&r=g",
+    "message": "i have generated it 3 times the google gives me the the same api key…maybe bcoz i use the same debug.keystore..nope i haven’t tried installing the app on real device…actually i do not have real device to work on…can u give the link to your post about installing map app on real device….if u want to look into the matter why doesn’t it work behind proxy refer<br>**http://code.google.com/p/android/issues/detail?id=3764#makechanges**. dis link shows why standard built-in map app doesn’t work behind proxy .this may give u some idea about the problem…..<br>the standard built-in map app doesn’t work in mine too…<br>please let me know …if u find a way out of this ..<br>thanks …"
+}

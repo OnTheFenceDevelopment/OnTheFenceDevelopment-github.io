@@ -1,0 +1,6 @@
+{
+    "date": "2012-06-24T10:32:00.0000000+00:00",
+    "name": "Mike",
+    "avatar": "https://secure.gravatar.com/avatar/80311d48d14fe79345b8320c066d785e?s=42&d=identicon&r=g",
+    "message": "Hey guys<br>I have been following this procedure to the tee and can not seem to get the credentials property working at all. I am able to mount the Stora to my machine using the credentials I need but when it comes to using the user name and password on /home/xbmc/.storacredentials I get this message:<br>`sudo mount -a`<br><br>mount: wrong fs type, bad option, bad superblock on //192.168.1.4/FamilyLibrary, missing codepage or helper program, or other error (for several filesystems (e.g. nfs, cifs) you might need a /sbin/mount. helper program) In some cases useful info is found in syslog – try<br>`dmesg | tail`<br><br>`xbmc@xbmc-HP-Pavilion-XBMC:~$ dmesg | tail`<br>[ 763.809189] CIFS VFS: No username specified<br><br>It thinks i have no username or password to look at.<br><br>Is anyone running into this problem?"
+}

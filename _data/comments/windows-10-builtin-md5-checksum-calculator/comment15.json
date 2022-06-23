@@ -1,0 +1,6 @@
+{
+    "date": "2020-12-05T02:44:00.0000000+00:00",
+    "name": "Tony",
+    "avatar": "https://secure.gravatar.com/avatar/33d457e41a5b0c537977a21ea3773a81?s=42&d=identicon&r=g",
+    "message": "Thanks for the Windows’ tip!<br><br><br>That’s a “lifesaver” knowing that ‘Windows Server’ too has the ‘CertUtil’ applet built-in.<br>For example, the ISO of updates that I need to install there (i.e. Windows Server) has MD5/SHA1 values posted on the download site, but no clue as to where one might start, etc.<br><br><br>MD5 & SHA1 are still the winners in this situation, for obvious reasons, not useless at all.<br><br><br>Cheers!"
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2013-01-07T09:08:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Ok, are you sure that you have generated your maps key correctly [**https://developers.google.com/maps/documentation/android/v1/mapkey?hl=sv-SE#getdebugfingerprint**].<br>While v1 of the API has been deprecated, i.e. it is not possible to obtain a new key for that level, it should still work. That said, you should probably consider getting a v2 key so that you have the latest features."
+}

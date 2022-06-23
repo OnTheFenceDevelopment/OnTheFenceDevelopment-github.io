@@ -1,0 +1,6 @@
+{
+    "date": "2012-06-24T10:41:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "I’ve not come across this but take a look here – http://thinkinginsoftware.blogspot.co.uk/2010/10/cifs-vfs-no-username-specified.html at a post where someone else had a simlar problem.<br>Does the mount work when you include the username/password within the fstab entry?"
+}

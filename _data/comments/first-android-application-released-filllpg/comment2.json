@@ -1,0 +1,6 @@
+{
+    "date": "2012-05-13T07:43:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "I’m glad you are finding the app useful. As for the ability to navigate to a particular station you’ll be happy to hear that this will be added shortly. I intend to integrate with Google Navigation so users of devices with GPS and Google Navigation installed will be be able to click a ‘Take Me to LPG’ button on the info bubble that is displayed when tapping a station."
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2013-04-14T08:35:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Sounds like maybe a problem with your Google Maps API Key – how have you signed your package? If you are not using the debug keys to sign your app then you’ll need to generate a new GMaps API Key to use with the deployment."
+}

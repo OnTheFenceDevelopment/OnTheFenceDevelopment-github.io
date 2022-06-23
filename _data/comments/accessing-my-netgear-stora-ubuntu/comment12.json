@@ -1,0 +1,6 @@
+{
+    "date": "2013-01-08T23:22:00.0000000+00:00",
+    "name": "flosspike",
+    "avatar": "https://secure.gravatar.com/avatar/3d94df90bbe23bf79ab0ea4a79e90725?s=42&d=identicon&r=g",
+    "message": "I have an issue. I’ve been running my netgear Stora for some years with Ubuntu from say dist 10.04 onwards. On 13.10 now and have always just mounted the drives by entering smb://192.168 etc. All works and it seems to read and write except sometimes it hiccups. A classic situation is while using the backup facility. I’ve configured backup to log into the stora’s backup area, even with a password, I’ve also got it to encrypt the backup but sometimes it hangs. I can get it to hang if I open up files and locate the mounted backup directory, see all the backup files. Doing that will result in backup hanging, the last file has zero bytes and until I log out, remount, delete this file and restart backup it’ll not continue. This is backup No.1 and is taking me ages to complete. I also noted that if a file to be backed up has zero bytes it’ll hang there too.. Is the above or part of the above applicaable to me?"
+}

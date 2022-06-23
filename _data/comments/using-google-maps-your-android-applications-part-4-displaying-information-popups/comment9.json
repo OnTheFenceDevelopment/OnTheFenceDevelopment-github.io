@@ -1,0 +1,6 @@
+{
+    "date": "2012-11-09T08:52:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "The samaple code above only adds a single GeoPoint to the map but if you needed to add more then you will need a for loop to iterate over a collection of points and maintain the list of those which are to be displayed. In my production code I have the following:<br><br>_displayedStations = new ArrayList();<br>for (station currentStation : _stationLocations) {<br>GeoPoint point = new GeoPoint((int) currentStation.getLatitude(), (int) currentStation.getLongitude());<br>if ((point.getLatitudeE6() > mapTopGeo && point.getLatitudeE6() mapLeftGeo && point.getLongitudeE6() < mapRightGeo)) {<br>Point myPoint = new Point();<br>projection.toPixels(point, myPoint);<br>Bitmap stationMarker = BitmapFactory.decodeResource(_context.getResources(), _defaultMarker);<br>canvas.drawBitmap(stationMarker, myPoint.x – 13, myPoint.y – 30, null);<br>_displayedStations.add(currentStation);<br>}<br>}<br><br><br>Where _stationLocations is an ArrayList containing all of the GeoPoints in the local database.<br>I hope this helps but feel free to post again if you need any more help."
+}

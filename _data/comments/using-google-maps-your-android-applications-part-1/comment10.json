@@ -1,0 +1,6 @@
+{
+    "date": "2012-06-14T13:23:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Ok, a quick Google and I found a few people mentioning that they needed to start the emulator with a -http-proxy switch to get things working behind a proxy. A quick search on the Android Developers site and I found this page (**http://developer.android.com/guide/developing/tools/emulator.html**) which details the command line switches for the emulator. Towards the bottom of the page, in the Network category, the definition for –http-proxy says<br><br> > Make all TCP connections through a specified HTTP/HTTPS proxy<br><br>Give that a whirl and let me know if it sorts your problem."
+}

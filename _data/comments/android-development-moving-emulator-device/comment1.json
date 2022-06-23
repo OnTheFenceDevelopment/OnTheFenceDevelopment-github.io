@@ -1,0 +1,6 @@
+{
+    "date": "2011-09-14T20:50:00.0000000+00:00",
+    "name": "Allen Jones",
+    "avatar": "https://secure.gravatar.com/avatar/6f8532b565141fe36ec567128890cd02?s=42&d=identicon&r=g",
+    "message": "Dave<br>This is really good, thanks. I have a few tips for Windows 7 especially in relation to File locations. My name is “Allen Jones” and my app is “MyApp” so the following are:<br>default keystore: c:usersAllen Jones.androiddebug.keystore<br>In the Export Wizard there is a further step at the end, a request for “Destination APK file”:<br>c:usersAllen Jones.androidMyApp.apk<br>adb.exe is found at: c:androidandroid-sdkplatform-tools<br>so the install command is:<br>adb install “c:usersAllen Jones.androidMyApp.apk”<br>(quotes needed because of space in my name)<br>I hope this helps!<br>Allen Jones (allen.jones246@gmail.com)"
+}

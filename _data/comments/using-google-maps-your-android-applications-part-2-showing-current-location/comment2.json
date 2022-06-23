@@ -1,0 +1,6 @@
+{
+    "date": "2012-04-01T16:45:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "When I was testing this code I did try it out while I was driving and the blue dot did follow my location – the map re-centred when the dot reached the edge of the display. With the other location listeners it is possible to set the update rate but I’m not sure if this is the case with the MyLocation overlay – i think it just does it but I could be wrong.<br>Let me know how you get on and I’ll see if I can install this version of the project onto my phone at some point and see if it does what I think it does 😉"
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2013-04-14T08:30:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "I had this problem too and if you refer back to the article you’ll find that the solution is through the use of myLocation.runOnFirstFix within the OnCreate method."
+}

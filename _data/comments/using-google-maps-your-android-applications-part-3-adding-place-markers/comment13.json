@@ -1,0 +1,6 @@
+{
+    "date": "2012-08-06T17:51:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Off the top of my head I’m not sure, sorry. Can look into it when I get time but you maybe able to pull something together using the code in this project. You’ll need to capture the tap location and pass this to a MapOverlay to add the marker."
+}
