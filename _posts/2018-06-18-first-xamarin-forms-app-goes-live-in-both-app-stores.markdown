@@ -9,7 +9,7 @@ A while ago I eluded to the fact that I was revisiting Xamarin.Forms for cross p
 I was interested to see how far Xamarin.Forms had come since my last encounter where I found it lacking in some critical functionality that was required for the project at hand – primarily when dealing with Maps.
 
 When I was approached by a user of my FillLPG application to write something along a very similar line, i.e. a number of points of interest displayed on a map with clickable markers to display more details, for both Android and iOS I wondered whether Xamarin.Forms had matured enough to do the job.
-
+<!--more-->
 The application is a companion to the <a href='http://motorhomestopover.co.uk/' target='_blank'>Motorhome Stopover website</a> which provides it’s members with access to over 600 locations around the UK where they can park overnight for free. While these are not campsites, facilities vary from location to location, they do provide a useful service when drivers are travelling across the country to their ultimate location (not everyone wants to drive from Edinburgh to Penzance in one day and being able to break the journey is a godsend).
 
 The app requirements were very simple, for the minimum viable product (MVP) anyway.
