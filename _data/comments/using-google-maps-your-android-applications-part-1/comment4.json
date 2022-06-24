@@ -1,0 +1,6 @@
+{
+    "date": "2012-06-12T06:21:00.0000000+00:00",
+    "name": "eashan",
+    "avatar": "https://secure.gravatar.com/avatar/dd33fb7ccb56af45dc55f038ec0b2964?s=42&d=identicon&r=g",
+    "message": "well written ..dave …but im working behind a corporate firewall/behind a proxy…and my map app made following the above instructions only shows a grid view without map..the zoom function works. there’s no problem with the api key..<br>the logcat shows me error…<br>couldn’t get connection factory client..which seems to an api bug..<br>and publisher closed input channel or error occurred..<br>any help would be appreciated……im stuck with this problem for days and cant find a solution….besides that i have also ..tried running the app on different<br>platforms…like 2.2,11,14,in the all the above net works..through the settings on emulator ….but not the app"
+}

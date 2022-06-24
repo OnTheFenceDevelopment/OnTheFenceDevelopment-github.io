@@ -1,0 +1,6 @@
+{
+    "date": "2013-02-13T10:39:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "I think that DataAnnotations have their place, i.e. if you have a view that just has required fields and maybe some text fields that cannot exceed a specific length but as soon as you need to do something a bit more involved then the FluentValidation library comes into it’s own."
+}

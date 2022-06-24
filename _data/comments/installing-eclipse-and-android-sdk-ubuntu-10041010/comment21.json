@@ -1,0 +1,6 @@
+{
+    "date": "2011-10-05T14:18:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "The AVD can take quite a while to start up – my old laptop took over 5 mins sometimes, even my new one takes over a minute to get to the unlock screen. You may just have to be patient. Try going into the AVD manager and starting it manually."
+}

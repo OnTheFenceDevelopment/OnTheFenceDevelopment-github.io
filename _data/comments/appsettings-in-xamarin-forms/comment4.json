@@ -1,0 +1,6 @@
+{
+    "date": "2021-05-21T18:29:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "In my real life implementations I normally have three configurations, Release, Staging and Debug so that’s probably why I habitually define the additional RELEASE and STAGING symbols. If you just have the two then yes, no need to overcomplicate things so just use the built-in DEBUG one.<br>Thanks for the heads up on the Login with Google issue – the site is hosted by WordPress.com so I’ll see if I can replicate it and raise a support ticket."
+}

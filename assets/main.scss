@@ -36,8 +36,6 @@
     margin-bottom: 0;
   }
 
-  ;
-
   .rouge-table {
     border: 0;
     border-color: transparent;
@@ -63,5 +61,46 @@
     padding-left: 0.5em;
     text-align: right;
   }
+}
 
+.pagination {
+  display: flex;
+
+  .previous,
+  a.previous {
+    flex: 1;
+  }
+
+  .page_number {
+    flex: 1;
+  }
+
+  .next,
+  a.next {
+    float: right;
+  }
+}
+
+.tag-highlight {
+  background-color: rgb(249, 244, 237);
+  border-radius: 15px;
+  padding: 5px 10px;
+}
+
+.comment {
+    padding: 2px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-collapse: inherit;
+    border-color: lightgrey;
+
+    tr td {
+      padding: 0;
+      border-collapse: collapse;
+      border-style: hidden;
+    }
+
+  tr:nth-child(even) {
+    background-color: inherit;
+  }
 }

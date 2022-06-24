@@ -1,0 +1,6 @@
+{
+    "date": "2021-04-08T11:16:00.0000000+00:00",
+    "name": "Michael Davenport",
+    "avatar": "https://secure.gravatar.com/avatar/247550d4319498686e555da3f5d4f789?s=42&d=identicon&r=g",
+    "message": "Hello,<br><br>Your example doesn’t work for me as in the App.xaml.cs I am getting the following error:<br><br>it occurs on the public static AppSettings AppSettings line<br><br>Inconsistent accessibility: property type ‘AppSettings’ is less accessiable than property ‘App.AppSettings’"
+}

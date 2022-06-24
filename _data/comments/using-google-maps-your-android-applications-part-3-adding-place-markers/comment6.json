@@ -1,0 +1,6 @@
+{
+    "date": "2012-03-30T08:55:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "The projection class is required to convert the maps latitude/longitude coordinates to x/y coordinates for the screen.The `myPoint` adjustments were made to position the tip of the marker at the correct location, rather than just using the center point of the image."
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2012-03-28T09:07:00.0000000+00:00",
+    "name": "lomza_t",
+    "avatar": "https://secure.gravatar.com/avatar/4eaf1317be8a0f0a6c4a470abf73cd8d?s=42&d=identicon&r=g",
+    "message": "Thanks for your great post! What I still don’t understand is why you’re using the Projection class. Why you wrote something like this: `myPoint.x – 15, myPoint.y – 30`? What is it exactly for? Thank you."
+}

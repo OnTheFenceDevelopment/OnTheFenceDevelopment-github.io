@@ -1,0 +1,6 @@
+{
+    "date": "2013-04-21T14:31:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Sounds like you’ve not generated and/or applied a Google Maps API key. This is particular to each installation so I can’t include mine because it simply won’t work for you.Refer to the start of this post for details on how to get you API Key for Google Maps."
+}

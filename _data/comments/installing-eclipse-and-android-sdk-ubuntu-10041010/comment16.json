@@ -1,0 +1,6 @@
+{
+    "date": "2011-08-07T09:38:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "I assume you are referring to Kalpak’s comment and it sounds like you have missed the ‘sudo’ from the start of the command : sudo nano /etc/apt/sources.list. Give that a try and let me know how you get on."
+}

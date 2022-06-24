@@ -1,0 +1,6 @@
+{
+    "date": "2010-05-20T11:25:00.0000000+00:00",
+    "name": "Vaman",
+    "avatar": "https://secure.gravatar.com/avatar/e892809fa8d2bb4d6385ead7c0bb0745?s=42&d=identicon&r=g",
+    "message": "I need to call a Code Behind Function which i will call upon the Confirmation of the Message Displayed.I’m finding Problem coding this..<br>Dim NewScript As String<br>Dim strAlert As String = “”<br>strAlert &= “The Refund Amount for the Flight Cancellation is” & dblRefundAmount<br>strAlert &= “nDo you want to continue with the Cancellation?”<br>NewScript = “”<br>NewScript &= “if(confirm(‘” & strAlert & “‘)){”<br>‘NewScript &= “‘” & GetFunction() & “‘;}”<br>NewScript = NewScript & “”<br>If (Not ClientScript.IsClientScriptBlockRegistered(“alert”)) Then<br>ClientScript.RegisterClientScriptBlock(Me.GetType, “alert”, NewScript, False)<br>End If<br>Exit Sub<br>In the Above Code need to call a Function or at least a button control event…"
+}

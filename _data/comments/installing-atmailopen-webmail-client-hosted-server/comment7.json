@@ -1,0 +1,6 @@
+{
+    "date": "2012-01-23T05:39:00.0000000+00:00",
+    "name": "Dave Kimble",
+    "avatar": "https://secure.gravatar.com/avatar/5a09d67eb4be16897f883b1c1bfc3ca0?s=42&d=identicon&r=g",
+    "message": "I found a solution eventually at the end of http://blogger-99.blogspot.com/2011/03/changing-from-squirrelmail-to-atmail.html<br>If you change the TR tags for the Language and Protocol lines to include style=”display:none;” then the lines are not displayed."
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2010-09-08T15:52:00.0000000+00:00",
+    "name": "jofo",
+    "avatar": "https://secure.gravatar.com/avatar/558a7b0b7d7d404ed2ae2ee5a272db94?s=42&d=identicon&r=g",
+    "message": "I think I’ve got similar issue and it seems that you have installed just pure Eclipse from ubuntu repository, so you have to install some other plugin from the repository, I think somethink like “eclipse jdk”.<br>Hope it helps."
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2012-08-15T09:03:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Glad you have found the articles useful. As for pulling data directly from Google Maps I think that this should certainly be possible. Google APIs are avaiable for a number of functions, ive used one before to return a collection of motor dealers within a certain radius of a particular location, so it should be possible to do this from and android app using the touch coordinates – it really depends what information you are looking for.(I’m actually on holiday abroad at the moment so have limited internet access but if you let me know how you get on then I may be able to help some more when I return in about a week)"
+}

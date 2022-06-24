@@ -1,0 +1,6 @@
+{
+    "date": "2021-10-29T18:26:00.0000000+00:00",
+    "name": "marcfabregatb",
+    "avatar": "https://secure.gravatar.com/avatar/dfc303f9a1eda4c5fe768f8fa6932833?s=42&d=identicon&r=g",
+    "message": "This is fantastic. Although as you say, is using reflexion. Is not a big deal is this case. But another solution like this but without reflection:<br>you can have an interface with the properties you want to configure and implement this interface for each environment.<br>Then, if you have dependency injection, you can inject the interface with the implementation, depending you environment. And that’s it, you can access to the parameters of you environment wherever you need.<br>To end with, if the repository is public, you should add this files to .gitignore.<br>Both solutions are totally fine, but the more you avoid reflection on xamarin projects, the better."
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2009-08-16T07:11:00.0000000+00:00",
+    "name": "Richard",
+    "avatar": "https://secure.gravatar.com/avatar/acbc801dcf99c61b6f4c66801b4d86fe?s=42&d=identicon&r=g",
+    "message": "Hmm, I’m having trouble doing exactly what you’ve done.<br>I’ve got Vista and Ubuntu installed on one drive, dual booting with GRUB.<br>Went to update Vista to 7 last night, it installs (took almost 2 hours), reboots a few times, then goes on to say that my install is being rolled back to Vista.<br>Then it restarts in Vista and shows a message saying Windows 7 could not be installed, please run the upgrade advisor.<br>I try and run that but it can’t connect to the server (tried disabling firewalls etc).<br>When I first run the installer it tells me iTunes and Symantec Endpoint Protection aren’t compatible, but I figure that can’t make the installer crap out, the software will just be broken until I upgrade them to Windows 7 versions.<br>Might just flatten the Vista partition and do a fresh 7 install…"
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2010-07-27T14:43:00.0000000+00:00",
+    "name": "zbeekman",
+    "avatar": "https://secure.gravatar.com/avatar/caa8733f82bb31d5ed20451f11110fd6?s=42&d=identicon&r=g",
+    "message": "Hi, everything seems to be working fine except when I invoke android from the command line (instead of via Eclipse). I get the following error:<br>$ android<br>Starting Android SDK and AVD Manager<br>No command line parameters provided, launching UI.<br>See ‘android –help’ for operations from the command line.<br>Exception in thread “main” java.lang.UnsatisfiedLinkError: no swt-gtk-3550 or swt-gtk in swt.library.path, java.library.path or the jar file<br>at org.eclipse.swt.internal.Library.loadLibrary(Unknown Source)<br>at org.eclipse.swt.internal.Library.loadLibrary(Unknown Source)<br>at org.eclipse.swt.internal.C.(Unknown Source)<br>at org.eclipse.swt.internal.Converter.wcsToMbcs(Unknown Source)<br>at org.eclipse.swt.internal.Converter.wcsToMbcs(Unknown Source)<br>at org.eclipse.swt.widgets.Display.(Unknown Source)<br>at com.android.sdkmanager.Main.showMainWindow(Main.java:265)<br>at com.android.sdkmanager.Main.doAction(Main.java:249)<br>at com.android.sdkmanager.Main.run(Main.java:94)<br>at com.android.sdkmanager.Main.main(Main.java:83)<br>Does anyone have any thoughts?"
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2013-05-03T06:45:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Sounds like you have not installed the Google SDKs – take a look here: http://developer.android.com/sdk/installing/adding-packages.html. Post back if you have no luck and I’ll take a look when I’m in front of my development. system."
+}

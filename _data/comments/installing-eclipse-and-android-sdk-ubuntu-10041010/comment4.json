@@ -1,0 +1,6 @@
+{
+    "date": "2010-08-22T23:26:00.0000000+00:00",
+    "name": "no",
+    "avatar": "https://secure.gravatar.com/avatar/4d98faa1b5bd40c0bce27574a4228440?s=42&d=identicon&r=g",
+    "message": "Cannot complete the install because one or more required items could not be found.Software being installed: Android Development Tools 0.9.7.v201005071157-36220 (com.android.ide.eclipse.adt.feature.group 0.9.7.v201005071157-36220)<br>Missing requirement: Android Development Tools 0.9.7.v201005071157-36220 (com.android.ide.eclipse.adt.feature.group 0.9.7.v201005071157-36220) requires ‘org.eclipse.gef 0.0.0′ but it could not be found"
+}

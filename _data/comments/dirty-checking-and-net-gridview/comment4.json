@@ -1,0 +1,6 @@
+{
+    "date": "2009-06-01T08:26:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "The problem is that the ‘onbeforeunload’ event appears to be called each time the page posts back – and editing a row in a datagrid causes a postback.<br>The approach in this post attempts to get around this by maintaining two states (isDirty and isEditting) and displaying the alert only when the page is dirty but not currently being editted. I’m still not 100% happy with the solution but it does work for us at the moment.<br>I’m still looking at methods for refining this process as well as other approaches to the problem of checking Dirty State."
+}

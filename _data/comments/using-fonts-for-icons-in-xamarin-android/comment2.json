@@ -1,0 +1,6 @@
+{
+    "date": "2020-07-05T17:12:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "For me I think fonts are preferable due to the reduced file size but it really depends on the scenario. Most developers know that SVG graphics will scale to any size without any pixelation etc but then fonts will pretty much do the same thing so I’m all for fonts myself."
+}

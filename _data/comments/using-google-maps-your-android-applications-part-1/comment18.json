@@ -1,0 +1,6 @@
+{
+    "date": "2013-05-04T10:18:00.0000000+00:00",
+    "name": "Dave",
+    "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
+    "message": "Reading into this it looks like a V2 API key will not work in a V1 application – which is a bit of a pain. Looks like I’ll have to put a refreshed tutorial together but I’m afraid that will take a few weeks to do."
+}

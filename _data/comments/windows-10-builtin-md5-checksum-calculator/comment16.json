@@ -1,0 +1,6 @@
+{
+    "date": "2021-01-04T07:53:00.0000000+00:00",
+    "name": "David Jung",
+    "avatar": "https://secure.gravatar.com/avatar/b619e22c5d9a6da4a936493b1a0544a9?s=42&d=identicon&r=g",
+    "message": "Works fine. CertUtil followed by `diff HASH1 HASH2` will let you easily compare the two hashes."
+}

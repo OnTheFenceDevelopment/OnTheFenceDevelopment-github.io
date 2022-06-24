@@ -1,0 +1,6 @@
+{
+    "date": "2009-11-23T04:33:00.0000000+00:00",
+    "name": "J.C. Denton",
+    "avatar": "https://secure.gravatar.com/avatar/57cf37e03b13c9cf7d84cdc5fcd8a9db?s=42&d=identicon&r=g",
+    "message": "Hello!<br>Thanks for the input. I modified the script a bit and it runs on one machine of our Ubuntu 8.04 LTS server cluster. Hope you like the implementation of the script…<br>#!/bin/bash<br>#set -x<br># VARIABLES<br>g_lastip=/tmp/tdohqnetip<br>g_currip=$(wget -q -O – http://www.whatismyip.com/automation/n09230945.asp)<br># CHK LAST IP<br>if [ -f $g_lastip ]; then<br># Update known IP with last saved one.<br>l_knowip=$(cat $g_lastip)<br>else<br># In case no IP file found continue…<br>l_knowip=<br># touch $g_lastip<br># echo $g_currip >> “$g_lastip”<br>fi<br>if [ “$g_currip” != “$l_knowip” ]; then<br># Remove and update the IP file here.<br>rm $g_lastip<br>touch $g_lastip<br>echo $g_currip >> “$g_lastip”<br># Now update trusty OpenDNS service…<br>wget -O – -q –http-user=account –http-passwd=password https://updates.opendns.com/nic/update<br>fi"
+}

@@ -15,20 +15,18 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <span>[
+  <span>
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}      
-      <a href="/tag/{{ tag_name }}"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+      <a href="/tag/{{ tag_name }}"><code class="tag-highlight"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
     {% endfor %}
-  ]</span>
+  </span>
   <br/><br/>
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
+  {% include comments.html %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

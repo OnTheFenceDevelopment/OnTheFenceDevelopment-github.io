@@ -36,5 +36,31 @@
 			"{% endhighlight %}"
 		],
 		"description": "Code Block with Line Numbers"
+	},
+	"Comment Meta": {
+		"prefix": "comment",
+		"body": [
+			"{",
+			"	\"date\": \"${1:year}-${2:month}-${3:day}T${4:hour}:${5:min}:00.0000000+00:00\",",
+			"	\"name\": \"${6:name}\",",
+			"	\"avatar\": \"${7:avatar url}\",",
+			"	\"message\": \"${8:message}\"",
+			"}",
+			"$0"
+		],
+		"description": "Comment Meta Data"
+	},
+	"Comment Reply Meta": {
+		"prefix": "comment-reply",
+		"body": [
+			"{",
+			"	\"date\": \"${1:year}-${2:month}-${3:day}T${4:hour}:${5:min}:00.0000000+00:00\",",
+			"	\"name\": \"Dave\",",
+			"	\"avatar\": \"https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g\",",
+			"	\"message\": \"${6:message}\"",
+			"}",
+			"$0"
+		],
+		"description": "Comment Reply Meta Data"
 	}
 }

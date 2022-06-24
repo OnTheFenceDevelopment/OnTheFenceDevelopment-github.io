@@ -1,0 +1,6 @@
+{
+    "date": "2009-07-10T15:14:00.0000000+00:00",
+    "name": "Anonymous",
+    "avatar": "https://secure.gravatar.com/avatar/3ca226ee7e143124caba8f7a9e8b63d8?s=42&d=identicon&r=g",
+    "message": "There is error on load<br>// Define callback references.<br>String cbReference1 = cs.GetCallbackEventReference(this, “arg”,<br>“ReceiveServerData1″, context1.ToString());"
+}

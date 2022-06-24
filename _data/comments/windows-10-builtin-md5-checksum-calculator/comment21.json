@@ -1,0 +1,6 @@
+{
+    "date": "2021-04-10T05:50:00.0000000+00:00",
+    "name": "Paul",
+    "avatar": "https://secure.gravatar.com/avatar/686f3456fcbe7d5fabad305e260eb22d?s=42&d=identicon&r=g",
+    "message": "But windows does not seem to have any tools to check checksums written to a file. I can not expect from my customer to compare manually two text files. Have a look on Linux “md5sums” and you will get an idea how it could work:<br>`md5sums -c file_with_sums`<br>File 1 : OK<br>File 2: OK<br>.."
+}

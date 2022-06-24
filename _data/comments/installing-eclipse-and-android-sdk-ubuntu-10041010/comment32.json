@@ -1,0 +1,6 @@
+{
+    "date": "2011-11-23T23:26:00.0000000+00:00",
+    "name": "Manny",
+    "avatar": "https://secure.gravatar.com/avatar/0d5de701a398fbaadbaeb2f16af9433b?s=42&d=identicon&r=g",
+    "message": "Thanks for the article. Seems that that Android SDK manage has a new look in its latest version. See http://developer.appcelerator.com/blog/2011/10/googles-new-android-sdk-tools-revision-14.html for a write-up.I had to go back and install Android SDK Platform-tools after installing the APIs. Seemed to work after that."
+}

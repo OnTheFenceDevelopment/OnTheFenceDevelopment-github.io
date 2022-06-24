@@ -1,0 +1,6 @@
+{
+    "date": "2010-06-03T22:54:00.0000000+00:00",
+    "name": "jbHolm",
+    "avatar": "https://secure.gravatar.com/avatar/51c83ee3adaa1d6ca0f2cc28cfdaa283?s=42&d=identicon&r=g",
+    "message": "You might find this solution cheesy but here’s what I do:<br>Create a tiny asp:button in some corner of the page and give it an OnClick function in the code behind.<br>Then in javascript:<br>var b = document.getElementById(“tinyButton”);<br>b.click();<br>The codebehind executes (BUT, probably wont return to the javascript)"
+}

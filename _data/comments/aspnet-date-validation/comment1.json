@@ -1,0 +1,6 @@
+{
+    "date": "2009-11-25T17:20:00.0000000+00:00",
+    "name": "Philip Lawes",
+    "avatar": "https://secure.gravatar.com/avatar/cf16ce617d24e704430e799d176e1d22?s=42&d=identicon&r=g",
+    "message": "Hi<br>Thanks for this tip. I think that your first bullet instruction should read<br>“Simply add a *CompareValidator* and set it’s ControlToValidate to the textbox containing the date.”"
+}
