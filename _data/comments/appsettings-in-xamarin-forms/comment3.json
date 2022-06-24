@@ -1,0 +1,6 @@
+{
+    "date": "2021-05-21T16:16:00.0000000+00:00",
+    "name": "Tim B.",
+    "avatar": "https://secure.gravatar.com/avatar/76115f2487670a9af61551b4575a7bc5?s=42&d=identicon&r=g",
+    "message": "Fantastic idea – thank you so much! There is one question that’s been bothering me for several minutes now: why wouldn’t you reverse the #if compiler condition from RELEASE that doesn’t exist to the DEBUG that does exist by default?<br>..oh, the Log in with Google fails to return control to your page in Safari after authentication popup disappears on macOS (Catalina), so I had to install Chrome in order to post. Just a feedback."
+}

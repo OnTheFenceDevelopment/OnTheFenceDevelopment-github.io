@@ -1,0 +1,6 @@
+{
+    "date": "2021-04-19T17:22:00.0000000+00:00",
+    "name": "Kenny",
+    "avatar": "https://secure.gravatar.com/avatar/c8b49909760735721106eb869def94ab?s=42&d=identicon&r=g",
+    "message": "I got an error in this line:<br>`var myMenuItem = navigationView.Menu.FindItem(Resource.Id.nav_camera);`<br>Couldn’t reference my ImageView (where I want the icon to be).<br>Tried this but didn’t worked:<br>`var MyIcon = FindViewById(Resource.Id.ImgLogo);`"
+}
