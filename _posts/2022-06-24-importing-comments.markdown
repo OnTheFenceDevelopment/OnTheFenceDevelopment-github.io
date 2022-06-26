@@ -11,7 +11,7 @@ I had previously thought about just discarding the comments but after reading th
 That being said, I have made the decision not to look at implementing a comment system into the new blog - if someone wants to contact me there's always <a href='https://www.twitter.com/onthefencedev' target='_blank'>Twitter</a> and <a href='https://mastodon.social/@onthefencedev' target='_blank'>Mastodon</a>.
 
 Being a relative newbie to the whole Jekyll platform and the Liquid language I needed to do some research but quickly fell onto <a href='[url](https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/)' target='_blank'>a post by Phil Haack where he discusses this very topic</a>.
-
+<!--more-->
 Now, Phil goes a lot further than I intended to go - he's accepting new comments and even though he doesn't use a third party service he does acknowledge that it does leave him exposed to comment spam, something I'd be keen to avoid.
 
 ## Adding the comment data
