@@ -2,5 +2,5 @@
     "date": "2021-04-10T10:11:00.0000000+00:00",
     "name": "Dave",
     "avatar": "https://secure.gravatar.com/avatar/574ced245d2cbf3d32eb903515de1ebc?s=42&d=identicon&r=g",
-    "message": "True enough, but then Windows isn’t Linux and that wasn’t the point of post, which was that you didn’t need to install one third party tool to verify the integrity of another.<br><br><br>I’ve used Linux enough in the past to be aware of md5sums and it’s usefulness – that was in part why I wondered whether I could perform MD5 checks natively in Windows.<br><br><br>Sure, it’s not as flexible as the Linux offering (as is frequently the case) but it works for me."
+    "message": "True enough, but then Windows isn’t Linux and that wasn’t the point of post, which was that you didn’t need to install one third party tool to verify the integrity of another.<br><br>I’ve used Linux enough in the past to be aware of md5sums and it’s usefulness – that was in part why I wondered whether I could perform MD5 checks natively in Windows.<br><br>Sure, it’s not as flexible as the Linux offering (as is frequently the case) but it works for me."
 }
