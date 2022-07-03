@@ -1,0 +1,6 @@
+{
+    "date": "2022-07-03T15:53:00.0000000+00:00",
+    "name": "Israel",
+    "avatar": "https://secure.gravatar.com/avatar/745cffca72773d3d809359f26fc17cac?s=32&d=mm&r=g",
+    "message": "Pretty easy.<br>1. In your File Explorer open shell:sendto<br>2. Create in that folder a .cmd (e.g., MD5.cmd) file with the following content:<br>&nbsp;&nbsp;&nbsp;`certutil -hashfile %1 md5`<br>&nbsp;&nbsp;&nbsp;`pause 0`<br>3. Save the file.<br>Now the ‘MD5’ (or whatever you had called at the p.2 above) option should appear in your right-click > ‘Send to’ menu."
+}
