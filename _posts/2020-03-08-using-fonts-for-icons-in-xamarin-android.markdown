@@ -11,7 +11,7 @@ I’m currently working on a new privacy application for Android and in [a previ
 Now I wanted to change the menu items to something more relevant with some appropriate icons – I mean, how hard can that be right?
 
 Well, as with everything in development these days – things are not always as easy as they seem to be.
-
+<!--more -->
 The source code from the previous post can be found on Github and if you take a look you will find the menu defined within an XML file at ..\Resources\menu\activity_main_drawer.xml. A number of items are defined here with the same basic attributes:
 ```html
 <item 
