@@ -68,7 +68,7 @@
 
   .previous,
   a.previous {
-    flex: 1;
+    float: right;
   }
 
   .page_number {
@@ -77,7 +77,7 @@
 
   .next,
   a.next {
-    float: right;
+    flex: 1;
   }
 }
 
