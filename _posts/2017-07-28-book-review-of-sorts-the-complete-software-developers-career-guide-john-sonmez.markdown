@@ -12,7 +12,7 @@ John has a no BS approach which leaves you in no doubt that if you want to succe
 Now, we all read technical books (or blogs) on a pretty regular basis in an effort to keep up with the ever changing world of technology, but what about those softer skills? Would you really buy a general ‘self help’ book? I mean, Software Developers are special right!?
 
 I have previously read John’s first book, <a href='https://www.amazon.co.uk/dp/1617292397/ref=cm_sw_r_cp_dp_T1_eKVEzb83N1GZ3' target='_blank'>Soft Skills</a>, which I found very enlightening, so when I received an email from John asking if I wanted to read a preview of his new book, <a href='https://www.amazon.com/dp/B073X6GNJ1/ref=cm_sw_r_cp_dp_T2_JVVEzbWWED3QX' target='_blank'>The Complete Software Developer’s Career Guide</a>, I hit the reply button straight away. [John contacted a number of his subscribers with the same request – I’m not special in that regard 😉 ].
-
+<!-- more -->
 ## The Book
 
 Now this is a big book – some 800+ pages – so it was going to take a while to read. However, this all coincided with my planned two week holiday so being able to lay in the sun and just read a book for a few days was not going to be a problem.

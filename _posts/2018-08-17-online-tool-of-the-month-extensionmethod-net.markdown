@@ -9,7 +9,7 @@ OK – not really a tool, more of a resource but I hope you will like it.
 As you may know my language of choice is C# and since version 3.0 developers have been able to add functionality to existing types without actually modifying the type itself by using <a href='https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods' target='_blank'>Extension Methods</a>.
 
 We are all used to the String methods such as ToUpper() and ToLower() – but what if you wanted to truncate a string to a specified length and apply a ‘…’ suffix?
-
+<!-- more -->
 Well, you could of course write a private method in the class you want to perform this operation or create a static class with static methods to do the job for you. Both perfectly valid ways of achieving the same result but extension methods are somewhat cleaner in my opinion (if you ignore the ‘they are’t object oriented’ argument).
 
 Now you can read all about Extension Methods using the above link but as with things like RegEx, there is not always a need to reinvent the wheel and the <a href='http://extensionmethod.net/' target='_blank'>ExtensionMethod.Net</a> website is basically a collection of user submitted methods which address common needs (or even the not so-common ones).

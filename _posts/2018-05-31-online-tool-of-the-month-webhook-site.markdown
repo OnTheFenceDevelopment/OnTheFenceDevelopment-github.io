@@ -15,7 +15,7 @@ In this instance the webhooks would fire when specific events occurred; e.g.
 - Subscription Cancelled (manually or after repeated, automated attempts for payment have failed)
 
 Long polling for this information would be a nightmare and having the webhook contact an endpoint on your API removes this headache – but does introduce another.
-
+<!-- more -->
 When I was developing the webhook callback endpoints it was difficult to see what data was being passed in the request. Stripe’s API documentation was good but there is nothing like actually seeing the data for yourself.
 
 Attempting to route calls from a remote webhook to my development environment was somewhat problematic and I never quite managed to get it working. In the end I created a simple WebAPI service that I deployed to a virtual private server which would receive the webhook request (as JSON) and simply email it to me. Simple effective but a bit of a pain.

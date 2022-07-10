@@ -13,7 +13,7 @@ Ok, so lets ignore the fact that we can be tracked via our phones anyway and loo
 If I open up the settings on my OnePlus 6T Android phone I see a new item – ‘COVID-19 exposure notifications’. This is what some people are losing their minds about right now.
 
 I on the other hand am not. Why not?
-
+<!-- more -->
 Well, as a developer (web and mobile) I listen to numerous podcasts with presenters and guests who know what they are talking about and <a href='https://twit.tv/shows/security-now/episodes/762' target='_blank'>one such episode</a> focused on the <a href='https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/' target='_blank'>collaboration between Google and Apple to create the foundations for Covid-19 tracking app</a> and roll it out to their phones during a standard update cycle.
 
 In this episode, which non-techies will find boring as hell, security expert Steve Gibson analyses the technology and gives it the thumbs up from a security and privacy point of view. This is a man I trust when it comes to these things.
