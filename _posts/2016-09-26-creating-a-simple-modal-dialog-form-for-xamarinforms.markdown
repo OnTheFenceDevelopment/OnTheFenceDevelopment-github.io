@@ -8,7 +8,7 @@ I’ve finally managed to get some time to look at the Smite Scoreboard applicat
 
 Between incompatible nuget packages, mismatched Windows and iOS configurations and finding that XF didn’t actually support what I wanted to do I was pretty close to saying, “you know what, to hell with it – I’ll just use the native Xamarin approach instead”.
 
-However, I recalled a <a href='[url](https://simpleprogrammer.com/2016/04/21/why-does-programming-suck/)' target='_blank'>video by John Sonmez titled ‘Why does Programming Suck?’</a> and rolled my sleeves up and dug in again.
+However, I recalled a <a href='https://simpleprogrammer.com/2016/04/21/why-does-programming-suck' target='_blank'>video by John Sonmez titled ‘Why does Programming Suck?’</a> and rolled my sleeves up and dug in again.
 <!--more-->
 Anyway – getting back to the Smite Scoreboard app and what is basically the first User Story.
 
