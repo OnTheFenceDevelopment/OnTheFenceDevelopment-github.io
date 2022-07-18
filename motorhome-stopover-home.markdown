@@ -7,7 +7,7 @@ title:  'Motorhome Stopover'
 ![motorhome stopover app icon](/assets/images/mhs_app_icon.png){:style="float:right; margin-left:10px;"}
 I have developed applications for Android (4.4+) and iOS (11+) which will allow users subscribed to the Motorhome Stopover website to access Stopover locations around the UK on their mobile devices.
 
-> Please note – the data provided by the applications comes directly from the <a href='https://www.motorhomestopover.co.uk/' target='_blank'>Motorhome Stopover website</a> and I have no control over this. If you experience problems with the data provided then please contact <a href='mailto:mail@motorhomestopover.co.uk' subject='Motorhome Stopover Support' target='_blank'>Member Support</a> directly who will endeavour to resolve your issues.
+> Please note – the data provided by the applications comes directly from the <a href='https://www.motorhomestopover.co.uk/' target='_blank'>Motorhome Stopover website</a> and I have no control over this. If you experience problems with the data provided then please contact <a href='mailto:mail@motorhomestopover.co.uk' subject='Motorhome Stopover Support' target='_blank'>Motorhome Stopover Member Support</a> directly who will endeavour to resolve your issues.
 
 ### Current Features:
 
