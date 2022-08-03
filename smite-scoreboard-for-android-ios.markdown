@@ -22,9 +22,11 @@ The concept of the game is similar to skittles where players take turns to throw
 - Sound effects (because with all love a sad trombone!)
 
 You will need to be running Android 4.1 (Jelly Bean) and above or iOS 9.0 and above to install the app on your device.
-Get it on Google Play	
 
 <a href='http://www.originalsmite.com/' target='_blank'>Click here to find out more about Smite</a> or why not head over to the <a href='https://smite.bigcartel.com/' target='_blank'>Original Smite Shop</a> and buy your set now – and no, I’m not on commission 🙂
+
+### Privacy Policy
+You can read about what data is collected and what I do with it in the <a href="{{ "/smite-scoreboard-privacy" | relative_url }}">Privacy Policy</a>. Don't worry, because the app collects practically nothing and only diagnostic data ever leaves your device there isn't much to read here.
 
 ### Release History
 
