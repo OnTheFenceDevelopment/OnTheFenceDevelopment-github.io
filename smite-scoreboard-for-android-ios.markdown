@@ -30,7 +30,7 @@ Get it on Google Play
 
 |Version|Comments|Release Date|
 |:-----:|--------|-----------:|
-|2.4.1508|Bug Fix Release|01/08/2022|
+|2.4.1509|Bug Fix Release|01/08/2022|
 |2.4.1462|Bug Fix Release|30/12/2021|
 |2.3.1422|Maintenance & Bug Fix Release|20/09/2021|
 |2.2.1357|Addition of Undo Score feature|05/06/2021|
