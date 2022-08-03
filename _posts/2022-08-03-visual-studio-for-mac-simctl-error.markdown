@@ -28,7 +28,7 @@ They all point to a configuration within Xcode, setting the location of Command 
 
 Sure enough, opening Preferences within Xcode adn selecting the Locations tab showed that the Command Line Tools location was blank.
 
-![locations tab within Xcode preferences](/assets/images/Xcode-preferences-location.png)
+![locations tab within Xcode preferences](/assets/images/xcode-preferences-location.png)
 
 Clicking the dropdown revealed a single item for selection `Xcode 13.4.1 (13F100)` and clicking it brought up a request for my system password which I duly entered.
 
