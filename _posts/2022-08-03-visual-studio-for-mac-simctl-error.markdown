@@ -26,7 +26,7 @@ Some quick checks on the App Store revealed that I was already running the lates
 
 They all point to a configuration within Xcode, setting the location of Command Line Tools - which simctl could very well be classed as.
 
-Sure enough, opening Preferences within Xcode adn selecting the Locations tab showed that the Command Line Tools location was blank.
+Sure enough, opening Preferences within Xcode and selecting the Locations tab showed that the Command Line Tools location was blank.
 
 ![locations tab within Xcode preferences](/assets/images/xcode-preferences-location.png)
 
