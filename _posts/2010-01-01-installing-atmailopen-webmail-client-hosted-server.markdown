@@ -2,7 +2,7 @@
 layout: post
 title:  'Installing AtMailOpen Webmail Client on Hosted Server'
 date:   2010-01-02 00:00:00
-tags:   
+tags:   email self-hosting
 ---
 I have a reseller account with my hosting provider which allows me to manage multiple domains (this being one of them) and also provides email services for each of them. The thing is that the two webmail clients it provides, Horde and SquirrelMail are [frankly] clunky and long winded to access – the latter being an issue with the implementation rather than the applications themselves.
 
