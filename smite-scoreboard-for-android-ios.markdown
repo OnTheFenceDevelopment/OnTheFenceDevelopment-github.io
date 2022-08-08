@@ -22,14 +22,18 @@ The concept of the game is similar to skittles where players take turns to throw
 - Sound effects (because with all love a sad trombone!)
 
 You will need to be running Android 4.1 (Jelly Bean) and above or iOS 9.0 and above to install the app on your device.
-Get it on Google Play	
 
 <a href='http://www.originalsmite.com/' target='_blank'>Click here to find out more about Smite</a> or why not head over to the <a href='https://smite.bigcartel.com/' target='_blank'>Original Smite Shop</a> and buy your set now – and no, I’m not on commission 🙂
+
+### Privacy Policy
+You can read about what data is collected and what I do with it in the <a href="{{ "/smite-scoreboard-privacy" | relative_url }}">Privacy Policy</a>. Don't worry, because the app collects practically nothing and only diagnostic data ever leaves your device there isn't much to read here.
 
 ### Release History
 
 |Version|Comments|Release Date|
 |:-----:|--------|-----------:|
+|2.4.1509|Bug Fix Release|01/08/2022|
+|2.4.1462|Bug Fix Release|30/12/2021|
 |2.3.1422|Maintenance & Bug Fix Release|20/09/2021|
 |2.2.1357|Addition of Undo Score feature|05/06/2021|
 |2.1.1290|Maintenance & Bug Fix Release|05/04/2021|
