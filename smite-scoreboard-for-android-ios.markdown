@@ -32,7 +32,8 @@ You can read about what data is collected and what I do with it in the <a href="
 
 |Version|Comments|Release Date|
 |:-----:|--------|-----------:|
-|2.4.1509|Bug Fix Release|01/08/2022|
+|2.4.1510|Bug Fix Release|09/08/2022|
+|2.4.1508|Bug Fix Release|01/08/2022|
 |2.4.1462|Bug Fix Release|30/12/2021|
 |2.3.1422|Maintenance & Bug Fix Release|20/09/2021|
 |2.2.1357|Addition of Undo Score feature|05/06/2021|
