@@ -11,7 +11,7 @@ That doesn't mean that I've lost touch though - I'm keeping up to date with the 
 During the previous decade I've been working as a contractor and an employee, in numerous sectors on a wide variety of projects built using various incarnations of the .NET Framework.
 
 As the end of 2022 approaches I'm now looking forward, maybe not a full decade ahead but change is coming and I need to be ready for it.
-<!-- more -->
+<!--more-->
 I've been developing software professionally for almost 25 years now, although I was writing programs back in the 1980's using my trusty ZX Spectrum (yes - I'm that old). During that time I've used numerous languages and seen the evolved over time - C# in particular.
 
 While working as a contractor I found that I was expected to be up to date with the latest language features - normally because I was joining a team working on greenfield projects that had been created using the current versions of the framework. Sometimes I was brought in to work on established projects though so being able to work with 'older' codebases was also important.
