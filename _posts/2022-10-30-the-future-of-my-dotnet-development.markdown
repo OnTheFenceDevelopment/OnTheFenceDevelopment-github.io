@@ -31,13 +31,13 @@ The options here are to do nothing, upgrade to Framework 4.8 (the latest .NET Fr
 
 Frankly, the jury is still out on this one.
 
-### OK, what about the .NET 6.0 app
+### OK, what about the .NET 3.1 app
 This was written for a client when I was contracting and I still maintain it for him - although again, there haven't been that many changes to or issues with the site over the past couple of years so I've not needed to touch it.
 
 This is a prime candidate for an upgrade to NET 6.0 and refactoring through with C# 10 language updates, in particular records and updated pattern matching.
 
 ### So what about the mobile apps?
-The apps, Smite Scoreboard and Motorhome Stopover, are currently in both Stores and while the former is effectively 'done', i.e. I'm not planning on making changes any time soon, I am thinking that the Motorhome Stopover app needs so attention over an above the platform update.
+The apps, Smite Scoreboard and Motorhome Stopover, are currently in both Stores and while the former is effectively 'done', i.e. I'm not planning on making changes any time soon, I am thinking that the Motorhome Stopover app needs some attention over and above the platform update.
 
 But there is a problem - and it's called MAUI.
 
