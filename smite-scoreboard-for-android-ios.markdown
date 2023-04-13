@@ -4,7 +4,7 @@ title:  'Smite Scoreboard'
 ---
 ![smite scoreboard app icon](/assets/images/smite_scoreboard_app_icon.png){:style="float:right; margin-left: 10px;"}
 
-These apps allow players of the popular garden game <a href='http://www.originalsmite.com/' target='_blank'>‘Smite‘</a> to keep track of their scores without the need for endless pieces of paper.
+These apps allow players of the popular garden game **‘Smite‘** to keep track of their scores without the need for endless pieces of paper.
 
 The concept of the game is similar to skittles where players take turns to throw a wooden ‘smitter’ at wooden pins. The aim of the game is to score exactly 50 points and the scoring means that this isn’t as simple as it may sound.
 
