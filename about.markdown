@@ -5,13 +5,15 @@ permalink: /about/
 ---
 This blog started back in 2009 when I was employed as a Software Developer for a local company working on web applications written using C# and the Microsoft MVC framework.
 
-Since then I worked for nine years as a Contractor, working for numerous companies across many sectors, including Health & Social Care, Security, Defence and Robotics to name a few.
+Since then I worked for nine years as a Contractor, working for numerous companies across many sectors, including Health & Social Care, Security, Risk Management, Defence and Robotics to name a few.
 
-When the Covid-19 pandemic came along in 2020 the contracting market dried up overnight so combined with the pending tax changes making it less worthwhile working for myself I decided to return to 'regular employment'.
+When the Covid-19 pandemic came along in 2020 the contracting market dried up overnight so combined with the pending tax changes (aka IR35) making it less worthwhile working for myself I decided to return to 'regular employment'.
 
-During this time I have tried to blog about things that have interested and frustrated me. Acting as an 'aid memoire' for me so that I don't have to remember how I overcame some problem or other and have to trawl the Internet all over again.
+After nearly three years of regular employment I got itchy feet and decided to return to contracting.
 
-The blog itself has gone through many incarations in terms of hosting. Starting with Joomla! and moving through Wordpress (self hosted on a Raspberry Pi) and Squarespace finally ending up back on Wordpress (hosted by <a href="https://www.wordpress.com" target="_blank">wordpress.com</a> this time).
+During this time I have tried to blog about things that have interested and frustrated me. Acting as an 'aide-mémoire' for me so that I don't have to remember how I overcame some problem or other and have to trawl the Internet all over again.
+
+The blog itself has gone through many incarnations in terms of hosting. Starting with Joomla! and moving through Wordpress (self hosted on a Raspberry Pi) and Squarespace finally ending up back on Wordpress (hosted by <a href="https://www.wordpress.com" target="_blank">wordpress.com</a> this time).
 
 Well, not quite finally. When Wordpress.com changed their hosting plans I was paying quite a bit more than I thought I needed to look elsewhere.
 
