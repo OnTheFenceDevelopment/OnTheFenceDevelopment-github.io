@@ -5,7 +5,7 @@ title:  'Motorhome Stopover'
 > This is a companion application for the Motorhome Stopover website – you will need an active subscription to use this app!
 
 ![motorhome stopover app icon](/assets/images/mhs_app_icon.png){:style="float:right; margin-left:10px;"}
-I have developed applications for Android (4.4+) and iOS (11+) which will allow users subscribed to the Motorhome Stopover website to access Stopover locations around the UK on their mobile devices.
+I have developed applications for Android (5.0+) and iOS (11+) which will allow users subscribed to the Motorhome Stopover website to access Stopover locations around the UK on their mobile devices.
 
 > Please note – the data provided by the applications comes directly from the <a href='https://www.motorhomestopover.co.uk/' target='_blank'>Motorhome Stopover website</a> and I have no control over this. If you experience problems with the data provided then please contact <a href='mailto:mail@motorhomestopover.co.uk' subject='Motorhome Stopover Support' target='_blank'>Motorhome Stopover Member Support</a> directly who will endeavour to resolve your issues.
 
@@ -31,6 +31,7 @@ If possible provide screenshots of the application when you encountered the erro
 
 |Version|Comments|Release Date|
 |:-----:|--------|-----------:|
+|1.4.0|Stopover filtering, bug fixes, 'Version Updates' message when installing new version|16/04/2023|
 |1.3.1|Android Only	Updated to fix issue opening Email, Dialer and Google Maps from with app|10/10/2021|
 |1.3.0|Fixed critical issue due to expire SSL certificate<br>Numerous fixes and performance improvements|02/10/2021|
 |1.2.1|Fixed bug which caused disabled Stopover locations to be displayed on map|20/11/2019|
