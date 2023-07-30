@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Printing from a Mac over Wifi'
+title:  'Wifi printing from a Mac, simple huh?'
 date:   2023-07-30 00:00:00
 tags:   hardware
 ---
