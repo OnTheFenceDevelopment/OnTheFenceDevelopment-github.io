@@ -6,9 +6,9 @@ tags:   mac docker gitlab
 ---
 A little while ago I installed Ubuntu on my aging iMac and subsequently installed Gitlab on it with a view to bring as much of my source code on premise as possible.
 
-As frequently happens, a proof of concept investigation soon becomes something you rely on but it still needs some of the basics sorting out - in the case of my Gitlab instance this means docker image upgrades and backup and restore processes.
+As frequently happens, a proof of concept investigation soon becomes something you rely on but it still needs some of the basics sorting out - in the case of my Gitlab instance this means docker image upgrades and a backup/restore process.
 
-I have to say I was both surprised and pleased to see the frequency of the docker image updates but so far I've not installed an of them as I need to investigate and verify that I can backup and restore everything in the event that an image update goes wrong or I have a hardware failure of some sort.
+I have to say I was both surprised and pleased to see the frequency of the docker image updates but so far I've not installed any of them as I need to investigate and verify that I can backup and restore everything in the event that an image update goes wrong or I have a hardware failure of some sort.
 
 With the iMac running my 'production' instance and Gitlab not apparently supporting a Docker installation on Windows that only leaves my MacBook Pro (MBP) to perform my investigations.
 
@@ -50,7 +50,7 @@ I did previously have postgresql installed on the MBP when I was working with a 
 
 I also tried updating permissions on the folders I was using to mount the container volume to but this made no difference. The only way I was able to get the container to start up correctly was to remove the options to bind the volumes linking container folders to host folders. If I did this everything just worked.
 
-I trawled the internet using the error message but didn't find anything even remotely relevant ... until I found <a href='https://github.com/sameersbn/docker-gitlab/issues/2818#issuecomment-1742232775' target='_blank'>this comment in a github issue thread</a>
+I trawled the internet using the error message but didn't find anything even remotely relevant ... until I found <a href='https://github.com/sameersbn/docker-gitlab/issues/2818#issuecomment-1740375553' target='_blank'>this comment in a github issue thread</a>
 
 Basically the comment says that Docker Desktop has recently changed the default technology used fo file sharing from gRPC Fuse to VirtioFS and that changing it back might just fix the problem. 
 
