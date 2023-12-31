@@ -48,7 +48,7 @@ How I'll get on - only time will tell I guess but as long as I can keep the litt
 
 I also deleted my OnTheFence Twitter account (or deactivated it anyway - and yes, I know it's called X now) after going cold turkey for about 6 months. Using Mastodon has certainly made my life calmer.
 
-### Mext Year
+### Next Year
 
 You know, I'm not going to promise to blog more - I've done that previously and frankly I'd just be setting myself up to fail.
 
