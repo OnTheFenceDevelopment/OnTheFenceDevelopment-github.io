@@ -6,6 +6,7 @@ tags:   looking-back career contracting
 ---
 
 I doesn't seem like nearly 12 months ago that I wrote about [my plans for this year]({% post_url 2023-01-18-new-year-new-start %}) and I couldn't have had any idea how difficult and challenging a year it was going to be.
+<!--more-->
 
 ### Contracting / Career
 
