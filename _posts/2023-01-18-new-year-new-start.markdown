@@ -4,7 +4,7 @@ title:  'A New Year and a New Start'
 date:   2023-01-18 00:00:00
 tags:   career contracting training imposter-syndrome
 ---
-Prior to the Covid pandemic and the lockdowns that followed I had been contracting for around 9 years, securing 22 contracts numerous sectors - some lasting a couple of months and a few lasting around a year.
+Prior to the Covid pandemic and the lockdowns that followed I had been contracting for around 9 years, securing 22 contracts across numerous sectors - some lasting a couple of months and a few lasting around a year.
 
 When the UK went into lockdown I was engaged with a startup company but with all the uncertainty at the time they decided to pull the pull on the project, leaving me looking for another contract just as the contracting market all but dried up.
 
@@ -20,7 +20,7 @@ So I've had to give two months notice and have offered to remain until the end o
 
 The thing about contracting is that you are normally working with the latest and greatest technologies and this keeps your skills up to date.
 
-My experience of regular employment is that options for advancement are more limited. The technology stack is essentially locked and upgrading things like .NET is difficult to justify when everything is working as it is.
+My experience of regular employment is that options for advancement are more limited. The technology stack is essentially locked and upgrading things like .NET version is difficult to justify when everything is "working fine as it is".
 
 So that's where I am now - I've fallen behind, or at least that's what it feels like and I need to address that. It could just be a touch of Imposter Syndrome (or self doubt as we used to call it - it's not a new thing) but I have a good track record and I'm driven to make it work.
 
