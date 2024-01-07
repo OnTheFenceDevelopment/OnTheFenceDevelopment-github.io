@@ -4,7 +4,7 @@ title:  'Pulling the trigger on Mac'
 date:   2024-01-07 00:00:00
 tags:   development hardware mac
 ---
-I've been thinking about going all in on Mac for a while now and with my current one now no receiving OS upgrades I am now unable to install the latest version of xCode which means I can't build Xamarin/MAUI apps targeting iOS devices.
+I've been thinking about going all in on Mac for a while now and with my current one no receiving OS upgrades I am now unable to install the latest version of xCode which means I can't build Xamarin/MAUI apps targeting iOS devices.
 
 Well, today I finally pulled the trigger and order a new MacBook Pro (MBP) which will be delivered in a couple of days. I'm really looking forward to the performance improvements from my 2015 Macbook Pro and my i7 Windows Workstation (custom built in 2010) to the new M3 Pro CPU in my new purchase.
 
