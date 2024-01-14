@@ -26,6 +26,8 @@ The first thing to do is pull the official Microsoft SQL Server image which is a
 docker pull mcr.microsoft.com/mssql/server
 ```
 
+> Note that if you are using a Mac with Apple Silicon (currently an M1, M2 or M3) then you will need to change this to fetch the following image instead: **mcr.microsoft.com/azure-sql-edge**
+
 Opening the Images tab in Docker Desktop will show the image which can now be spun up into a running container that can be accessed via SSMS.
 
 The <a href="https://hub.docker.com/_/microsoft-mssql-server" target="_blank">Docker Hub page for MS SQL Server</a> details a couple of required environment variables that need to be configured.
