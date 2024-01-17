@@ -38,7 +38,9 @@ public class StateResult
 ```
 The method signature now becomes:
 
+```csharp
 public StateResult CheckState(int aParameter)
+```
 
 While the usage would now be:
 ```csharp
