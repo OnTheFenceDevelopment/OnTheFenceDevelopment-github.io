@@ -13,7 +13,7 @@ Now, Mac users are not being left out in the cold by Microsoft - oh no. They are
 
 But this all felt a little ..... I don't know, cobbled together to me. I wanted something a little bit more ... focused on the job I need it to do. Not a general purpose system that could be tailored for any number of use cases.
 
-Enter <a href='https://learn.microsoft.com/en-us/visualstudio/mac/what-happened-to-vs-for-mac?view=vsmac-2022' target='_blank'>Jetbrains Rider for Mac</a> (and Windows and Linux) which in my opinion, despite being not being a free product, is a very worthy replacement.
+Enter <a href='https://www.jetbrains.com/rider/download/#section=mac' target='_blank'>Jetbrains Rider for Mac</a> (and Windows and Linux) which in my opinion, despite being not being a free product, is a very worthy replacement.
 <!--more-->
 
 My first experience with Jetbrains products was <a href='https://www.jetbrains.com/resharper/' target='_blank'>ReSharper</a> and I have to say that I wasn't impressed because it appeared to have a massive impact on Visual Studios performance. When I was working with client hardware which had ReSharper installed I quickly found myself disabling it.
