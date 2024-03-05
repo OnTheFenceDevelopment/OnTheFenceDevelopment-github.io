@@ -9,7 +9,7 @@ Even before Microsoft announced that they were <a href='https://learn.microsoft.
 
 I'd never really felt that impressed with VS for Mac, feeling it was always a bit of a second class citizen - which is understandable I guess; Microsoft have Visual Studio 2022 for their own operating system after all so it was probably quite surprising that they released the Mac IDE at all.
 
-Now, Mac users are not being left out in the cold by Microsoft - oh no. They are are suggesting <a href='https://learn.microsoft.com/en-us/visualstudio/mac/what-happened-to-vs-for-mac?view=vsmac-2022' target='_blank'>Visual Studio Code</a> for use on the Mac (and Windows and even Linux) which, it is said, can be augmented with <a href='https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit' target='_blank'>powerful extensions to support C#, Blazor and even MAUI development</a>.
+Now, Mac users are not being left out in the cold by Microsoft - oh no. They are are suggesting <a href='https://code.visualstudio.com/' target='_blank'>Visual Studio Code</a> for use on the Mac (and Windows and even Linux) which, it is said, can be augmented with <a href='https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit' target='_blank'>powerful extensions to support C#, Blazor and even MAUI development</a>.
 
 But this all felt a little ..... I don't know, cobbled together to me. I wanted something a little bit more ... focused on the job I need it to do. Not a general purpose system that could be tailored for any number of use cases.
 
