@@ -71,4 +71,4 @@ Restart Rider and expand the Devices list and you should also see the device lis
 So, that's that - how to get the latest version of Xcode to deploy and debug applications on an older, technically unsupported physical device.
 
 ## Resources:
-Jon Brown Blog Post: <a href='https://jonbrown.org/blog/xcodes-walkthrough-and-review/' target='_blank'>https://jonbrown.org/blog/xcodes-walkthrough-and-review/</a>
+Jon Brown Blog Post about the Xcodes Utility: <a href='https://jonbrown.org/blog/xcodes-walkthrough-and-review/' target='_blank'>https://jonbrown.org/blog/xcodes-walkthrough-and-review/</a>
