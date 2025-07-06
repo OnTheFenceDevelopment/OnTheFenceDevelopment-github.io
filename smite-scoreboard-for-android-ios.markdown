@@ -29,7 +29,7 @@ The concept of the game is similar to skittles where players take turns to throw
 
 You will need to be running Android 5.0 (Lollipop) and above or iOS 15.0 and above to install the app on your device.
 
-Unfortuntely the 'Original Smite' store has now closed down but you can find plenty of other outlets offering Smite sets at reasonable prices - just make sure you search for 'smite garden game' rather than just 'smite'.
+Unfortunately the 'Original Smite' store has now closed down but you can find plenty of other outlets offering Smite sets at reasonable prices - just make sure you search for 'smite garden game' rather than just 'smite'.
 
 ### Privacy Policy
 You can read about what data is collected and what I do with it in the <a href="{{ "/smite-scoreboard-privacy" | relative_url }}">Privacy Policy</a>. Don't worry, because the app collects practically nothing and only diagnostic data ever leaves your device there isn't much to read here.
