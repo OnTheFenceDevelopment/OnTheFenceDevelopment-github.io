@@ -21,7 +21,7 @@ The concept of the game is similar to skittles where players take turns to throw
 - Save players and games into ‘Game History’
 - Player statistics
 - Sound effects (because we all love a sad trombone!)
-- Support for 12-pin Smite-like games
+- Support for 12-pin Smite-like games (e.g. Molkky & Number Kubb)
 - Ability to change the '3 Strikes' rule
   - Out of Game (current behavior)
   - Zero Score
@@ -38,6 +38,7 @@ You can read about what data is collected and what I do with it in the <a href="
 
 | Version  | Comments                                             | Release Date |
 |:--------:|------------------------------------------------------|-------------:|
+|  3.1.1   | Bug Fix Release (Android only)                       |   08/07/2025 |
 |  3.1.0   | Maintenance Release & Bug Fix Release (Android only) |   04/07/2025 |
 |  3.0.1   | Maintenance Release & Bug Fix Release                |   18/03/2025 |
 | 2.4.1542 | Maintenance Release                                  |   06/04/2023 |
