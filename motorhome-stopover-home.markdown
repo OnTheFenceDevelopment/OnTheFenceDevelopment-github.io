@@ -29,15 +29,16 @@ If possible provide screenshots of the application when you encountered the erro
 
 ### Release History
 
-|Version|Comments|Release Date|
-|:-----:|--------|-----------:|
-|1.4.0|Stopover filtering, bug fixes, 'Version Updates' message when installing new version|16/04/2023|
-|1.3.1|Android Only	Updated to fix issue opening Email, Dialer and Google Maps from with app|10/10/2021|
-|1.3.0|Fixed critical issue due to expire SSL certificate<br>Numerous fixes and performance improvements|02/10/2021|
-|1.2.1|Fixed bug which caused disabled Stopover locations to be displayed on map|20/11/2019|
-|1.2.0|Password Recovery<br>Email and Call Stopover from the Details page<br>Open Stopover Website from the Details page<br>Updated Vehicle Length display on Details Page|17/10/2019|
-|1.1.1|Authentication updates to integrate fully with the new website|17/07/2019|
-|1.0|Initial Release|16/06/2018|
+| Version | Comments                                                                                                                                                            | Release Date |
+|:-------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------:|
+|  2.0.2  | Built for Android 15+. Subscription checks, removed manual sync (now daily), performance & stability updates, handful of bug fixes                                  |   14/09/2025 |
+|  1.4.0  | Stopover filtering, bug fixes, 'Version Updates' message when installing new version                                                                                |   16/04/2023 |
+|  1.3.1  | Android Only	Updated to fix issue opening Email, Dialer and Google Maps from with app                                                                               |   10/10/2021 |
+|  1.3.0  | Fixed critical issue due to expire SSL certificate<br>Numerous fixes and performance improvements                                                                   |   02/10/2021 |
+|  1.2.1  | Fixed bug which caused disabled Stopover locations to be displayed on map                                                                                           |   20/11/2019 |
+|  1.2.0  | Password Recovery<br>Email and Call Stopover from the Details page<br>Open Stopover Website from the Details page<br>Updated Vehicle Length display on Details Page |   17/10/2019 |
+|  1.1.1  | Authentication updates to integrate fully with the new website                                                                                                      |   17/07/2019 |
+|   1.0   | Initial Release                                                                                                                                                     |   16/06/2018 |
 
 <a href="https://play.google.com/store/apps/details?id=com.onthefencedevelopment.mhs" target="_blank" style="float: left;">
     <img alt="Get it on Google Play" style="height: 100px" src="{{ '/assets/images/get-it-on-google-play.png' | relative_url }}"/>
