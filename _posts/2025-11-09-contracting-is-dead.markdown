@@ -45,7 +45,7 @@ I could argue that a contractor would be a better option because they will have 
 ## Next Steps
 Now that the decision has been made to focus on a single rabbit here is my plan;
 
-- Update Job Boards to remove 'Contract' as a desired Job Type
+- Update Job Boards to remove 'Contract' as a desired job types and setup corresponding job searches and notifications
 - Reach out to previous Clients that I would work for again (not all fall into this category)
 - Send an availability update to recruiters who I've dealt with before or who have contacted me recently with permanent roles
 - Revisit and push my personal projects forward as part of my portfolio
