@@ -11,7 +11,7 @@ When I started contracting back in 2011 the market was buoyant and it was not un
 
 Then Covid happened and the whole landscape changed with the contract market essentially imploding overnight. Unfortunately, when the world started to get back to normal the contract market didn't follow suit, it remained pretty much stagnant.
 
-The primary cause of this can be leveled at IR35 and the Off-Payroll changes rolled out to the private sector in April 2021. Now, I'm not going to try to explain the abomination that is IR35 because that's not going to achieve anything, it will bring my frustrations to the foreground and frankly it isn't going away, so there is no point banging on about it.
+The primary cause of this can be leveled at IR35 and the Off-Payroll changes rolled out to the private sector in April 2021. Now, I'm not going to try to explain the abomination that is IR35 because that's not going to achieve anything, it will make this a very long and boring post and frankly it isn't going away, so there is no point banging on about it.
 
 The long and the short if it is .... I'm out ... I'm done with contracting and that's that!
 
