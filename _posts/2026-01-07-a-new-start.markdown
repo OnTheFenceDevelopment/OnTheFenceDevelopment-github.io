@@ -9,11 +9,11 @@ tags:   career regular-employment linux ubuntu jetbrains-rider privacy
 
 The cost has been the closure of my Limited Company that I setup in 2023 and marks my departure from the world of contracting and my return to regular employment.
 
-<!--more-->
-
 Now I'm fortunate in that I'm returning to work for not only a previous client, but also a previous employer who reached out to me with this opportunity. I clearly tick all their boxes, and they know I can do the job they need me to do.
 
 So although there will be challenges ahead, my new role will see me helping drive their product forward; I do need something outside of work to keep my mind working.
+
+<!--more-->
 
 This blog was created many years ago with the theme being that I wouldn't fixate on a single technology, that I would mix things up a bit. I think this has stood me in good stead for being a contractor as it kept my skills sharp and varied.
 
