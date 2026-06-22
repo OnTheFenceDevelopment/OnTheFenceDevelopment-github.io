@@ -36,6 +36,18 @@ plugins:
 
 emptyArray: []
 
+collections: 
+  release_notes:
+    output: true
+    permalink: /release-notes/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: release_notes
+    values:
+      layout: page
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

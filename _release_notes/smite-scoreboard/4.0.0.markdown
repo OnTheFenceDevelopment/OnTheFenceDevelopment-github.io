@@ -1,0 +1,34 @@
+---
+layout: page
+title:  'Release v4.0.0 (Summer Refresh 2026)'
+date:   2026-06-22 00:00:00
+---
+
+## v4.0.0 - Summer Refresh 2026
+The Highlights of this release are:
+- More flexibility when creating Players in Individual Game mode, including reordering
+- Added new Team Builder view and removed the 4 Team limit on Teams
+- Addition of link to new Smite website on About page
+- Updates to support the latest Apple and Android operating systems
+- Small number of bug fixes & performance improvements
+
+
+### Player Management in Individual Game Mode
+When starting a new Game from scratch in Individual Mode you can now reorder the players in the Player List at any point before starting the game - just tap and hold the 'hamburger' icon to the left of the Player name and drag/drop it where you want it to be. No more editing/removing Players to get the order you want.
+
+In addition to this, if you opt to restart a Game partway through or want to play again after a Game has been won, you will now be taken to the Player List page where you can add, remove, edit and reorder Players before starting the next Game.
+
+### The New Team Builder
+One feature that was requested was the ability to have more than 4 Teams in a Game. While there are further improvements planned the current functionality allows you to create an unlimited number of Teams with an unlimited number of Players in each. As with the Individual Mode you can reorder the Players within a Team but you cannot (currently) change the order of the Teams themselves.
+
+### New Smite Website
+In case you didn't know there is a new Smite website, where you can find more information about the game and the community - and of course order your own Smite set! You can find a link to the site on the About page but if you need to look right now it's <a href='https://www.bagofsmite.com' target='_blank'>right here</a>.
+
+### Latest Apple and Android Updates
+The app has been updated to support the latest Apple and Android operating systems, helping to ensure you have the best experience possible.
+
+### Bug Fixes & Performance Improvements
+A small number of bug fixes and performance improvements have been made to the apps. Hopefully you'll find the app more responsive and enjoyable to use but if you encounter any problems then please let me know using the 'Support' link on the About page.
+
+Happy Smiting!
+- The Smite Scoreboard Team

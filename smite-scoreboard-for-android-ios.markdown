@@ -14,6 +14,7 @@ The concept of the game is similar to skittles where players take turns to throw
 - Multi-player mode
 - Auto Saving of Game State to resume later
 - Team mode – Added in 2.0.1032 (Jan 2020)
+  - New Team Builder - Added in 4.0.0 (June 2026) 
 - Undo Score - Added in 2.2.1357 (Jun 2021)
 
 ### Potential Future Features:
@@ -21,7 +22,6 @@ The concept of the game is similar to skittles where players take turns to throw
 - Save players and games into ‘Game History’
 - Player statistics
 - Sound effects (because we all love a sad trombone!)
-- Support for 12-pin Smite-like games (e.g. Molkky & Number Kubb)
 - Ability to change the '3 Strikes' rule
   - Out of Game (current behavior)
   - Zero Score
@@ -36,21 +36,22 @@ You can read about what data is collected and what I do with it in the <a href="
 
 ### Release History
 
-| Version  | Comments                                             | Release Date |
-|:--------:|------------------------------------------------------|-------------:|
-|  3.1.1   | Bug Fix Release (Android only)                       |   08/07/2025 |
-|  3.1.0   | Maintenance Release & Bug Fix Release (Android only) |   04/07/2025 |
-|  3.0.1   | Maintenance Release & Bug Fix Release                |   18/03/2025 |
-| 2.4.1542 | Maintenance Release                                  |   06/04/2023 |
-| 2.4.1510 | Bug Fix Release                                      |   09/08/2022 |
-| 2.4.1508 | Bug Fix Release                                      |   01/08/2022 |
-| 2.4.1462 | Bug Fix Release                                      |   30/12/2021 |
-| 2.3.1422 | Maintenance & Bug Fix Release                        |   20/09/2021 |
-| 2.2.1357 | Addition of Undo Score feature                       |   05/06/2021 |
-| 2.1.1290 | Maintenance & Bug Fix Release                        |   05/04/2021 |
-| 2.1.1167 | Maintenance & Bug Fix Release                        |   12/10/2020 |
-| 2.0.1032 | Addition of Team Play mode                           |   17/01/2020 |
-|   1.0    | Initial Release                                      |   04/09/2018 |
+|                      Version                      | Comments                                             |          Release Date |
+|:-------------------------------------------------:|------------------------------------------------------|----------------------:|
+| [4.0.0]({{"/release-notes/smite-scoreboard/4.0.0" | relative_url }}) | Major Feature Release | 26/06/2026              |
+|                       3.1.1                       | Bug Fix Release (Android only)                       |            08/07/2025 |
+|                       3.1.0                       | Maintenance Release & Bug Fix Release (Android only) |            04/07/2025 |
+|                       3.0.1                       | Maintenance Release & Bug Fix Release                |            18/03/2025 |
+|                     2.4.1542                      | Maintenance Release                                  |            06/04/2023 |
+|                     2.4.1510                      | Bug Fix Release                                      |            09/08/2022 |
+|                     2.4.1508                      | Bug Fix Release                                      |            01/08/2022 |
+|                     2.4.1462                      | Bug Fix Release                                      |            30/12/2021 |
+|                     2.3.1422                      | Maintenance & Bug Fix Release                        |            20/09/2021 |
+|                     2.2.1357                      | Addition of Undo Score feature                       |            05/06/2021 |
+|                     2.1.1290                      | Maintenance & Bug Fix Release                        |            05/04/2021 |
+|                     2.1.1167                      | Maintenance & Bug Fix Release                        |            12/10/2020 |
+|                     2.0.1032                      | Addition of Team Play mode                           |            17/01/2020 |
+|                        1.0                        | Initial Release                                      |            04/09/2018 |
 
 <a href="http://play.google.com/store/apps/details?id=com.onthefencedevelopment.smitescoreboard" target="_blank" style="float: left;">
     <img alt="Get it on Google Play" style="height: 100px" src="{{ '/assets/images/get-it-on-google-play.png' | relative_url }}"/>
