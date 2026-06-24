@@ -1,12 +1,15 @@
 ---
 layout: page
-title:  'Smite Scoreboard'
+title: 'Smite Scoreboard'
 ---
+
 ![smite scoreboard app icon](/assets/images/smite_scoreboard_app_icon.png){:style="float:right; margin-left: 10px;"}
 
-These apps allow players of the popular garden game **‘Smite‘** to keep track of their scores without the need for endless pieces of paper.
+These apps allow players of the popular garden game **‘Smite‘** to keep track of their scores without the need for
+endless pieces of paper.
 
-The concept of the game is similar to skittles where players take turns to throw a wooden ‘smitter’ at wooden pins. The aim of the game is to score exactly 50 points and the scoring means that this isn’t as simple as it may sound.
+The concept of the game is similar to skittles where players take turns to throw a wooden ‘smitter’ at wooden pins. The
+aim of the game is to score exactly 50 points and the scoring means that this isn’t as simple as it may sound.
 
 ### Current Features:
 
@@ -14,7 +17,7 @@ The concept of the game is similar to skittles where players take turns to throw
 - Multi-player mode
 - Auto Saving of Game State to resume later
 - Team mode – Added in 2.0.1032 (Jan 2020)
-  - New Team Builder - Added in 4.0.0 (June 2026) 
+    - New Team Builder - Added in 4.0.0 (June 2026)
 - Undo Score - Added in 2.2.1357 (Jun 2021)
 
 ### Potential Future Features:
@@ -23,35 +26,39 @@ The concept of the game is similar to skittles where players take turns to throw
 - Player statistics
 - Sound effects (because we all love a sad trombone!)
 - Ability to change the '3 Strikes' rule
-  - Out of Game (current behavior)
-  - Zero Score
-  - Half Current Score
+    - Out of Game (current behavior)
+    - Zero Score
+    - Half Current Score
 
 You will need to be running Android 13 (Tiramisu) and above or iOS 15.0 and above to install the app on your device.
 
-Unfortunately the 'Original Smite' store has now closed down but you can find plenty of other outlets offering Smite sets at reasonable prices - just make sure you search for 'smite garden game' rather than just 'smite'.
+Unfortunately the 'Original Smite' store has now closed down but you can find plenty of other outlets offering Smite
+sets at reasonable prices - just make sure you search for 'smite garden game' rather than just 'smite'.
 
 ### Privacy Policy
-You can read about what data is collected and what I do with it in the <a href="{{ "/smite-scoreboard-privacy" | relative_url }}">Privacy Policy</a>. Don't worry, because the app collects practically nothing and only diagnostic data ever leaves your device there isn't much to read here.
+
+You can read about what data is collected and what I do with it in the <a href="{{ "/smite-scoreboard-privacy" |
+relative_url }}">Privacy Policy</a>. Don't worry, because the app collects practically nothing and only diagnostic data
+ever leaves your device there isn't much to read here.
 
 ### Release History
 
-|                      Version                      | Comments                                             |          Release Date |
-|:-------------------------------------------------:|------------------------------------------------------|----------------------:|
-| [4.0.0]({{"/release-notes/smite-scoreboard/4.0.0" | relative_url }}) | Major Feature Release | 26/06/2026              |
-|                       3.1.1                       | Bug Fix Release (Android only)                       |            08/07/2025 |
-|                       3.1.0                       | Maintenance Release & Bug Fix Release (Android only) |            04/07/2025 |
-|                       3.0.1                       | Maintenance Release & Bug Fix Release                |            18/03/2025 |
-|                     2.4.1542                      | Maintenance Release                                  |            06/04/2023 |
-|                     2.4.1510                      | Bug Fix Release                                      |            09/08/2022 |
-|                     2.4.1508                      | Bug Fix Release                                      |            01/08/2022 |
-|                     2.4.1462                      | Bug Fix Release                                      |            30/12/2021 |
-|                     2.3.1422                      | Maintenance & Bug Fix Release                        |            20/09/2021 |
-|                     2.2.1357                      | Addition of Undo Score feature                       |            05/06/2021 |
-|                     2.1.1290                      | Maintenance & Bug Fix Release                        |            05/04/2021 |
-|                     2.1.1167                      | Maintenance & Bug Fix Release                        |            12/10/2020 |
-|                     2.0.1032                      | Addition of Team Play mode                           |            17/01/2020 |
-|                        1.0                        | Initial Release                                      |            04/09/2018 |
+|                              Version                               | Comments                                             | Release Date  |                                                                              |
+|:------------------------------------------------------------------:|:-----------------------------------------------------|:-------------:|:----------------------------------------------------------------------------:|
+| [4.0.0]({{"/release-notes/smite-scoreboard/4.0.0" relative_url }}) | Major Feature Release                                |  26/06/2026   |  [Release Notes]({{"/release-notes/smite-scoreboard/4.0.0" relative_url }})  |
+|                               3.1.1                                | Bug Fix Release (Android only)                       |  08/07/2025   |                                                                              |
+|                               3.1.0                                | Maintenance Release & Bug Fix Release (Android only) |  04/07/2025   |                                                                              |
+|                               3.0.1                                | Maintenance Release & Bug Fix Release                |  18/03/2025   |                                                                              |
+|                              2.4.1542                              | Maintenance Release                                  |  06/04/2023   |                                                                              |
+|                              2.4.1510                              | Bug Fix Release                                      |  09/08/2022   |                                                                              |
+|                              2.4.1508                              | Bug Fix Release                                      |  01/08/2022   |                                                                              |
+|                              2.4.1462                              | Bug Fix Release                                      |  30/12/2021   |                                                                              |
+|                              2.3.1422                              | Maintenance & Bug Fix Release                        |  20/09/2021   |                                                                              |
+|                              2.2.1357                              | Addition of Undo Score feature                       |  05/06/2021   |                                                                              |
+|                              2.1.1290                              | Maintenance & Bug Fix Release                        |  05/04/2021   |                                                                              |
+|                              2.1.1167                              | Maintenance & Bug Fix Release                        |  12/10/2020   |                                                                              |
+|                              2.0.1032                              | Addition of Team Play mode                           |  17/01/2020   |                                                                              |
+|                                1.0                                 | Initial Release                                      |  04/09/2018   |                                                                              |
 
 <a href="http://play.google.com/store/apps/details?id=com.onthefencedevelopment.smitescoreboard" target="_blank" style="float: left;">
     <img alt="Get it on Google Play" style="height: 100px" src="{{ '/assets/images/get-it-on-google-play.png' | relative_url }}"/>
