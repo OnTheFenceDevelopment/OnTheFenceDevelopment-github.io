@@ -1,0 +1,17 @@
+---
+layout: page
+title:  'Release v4.0.2 (Bug Fix Release)'
+date:   2026-06-22 00:00:00
+---
+
+## 4.0.2 - Bugfix Release
+Automated crash reports were received indicating an issue when users were attempting to take a players photo but hadn't granted the Camera permission.
+
+This resulted in the app hanging/freezing and then exiting, losing all player entry up to that point.
+
+This release fixes the issue for both Android and iOS versions.
+
+Apologies for any inconvenience this bug may have caused.
+
+Happy Smiting!
+- The Smite Scoreboard Team
