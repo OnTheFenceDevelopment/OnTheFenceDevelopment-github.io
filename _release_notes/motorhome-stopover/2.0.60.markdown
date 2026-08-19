@@ -1,0 +1,11 @@
+---
+layout: page
+title:  'Release v2.0.60 Maintenance Release'
+date:   2026-08-18 00:00:00
+---
+
+## v2.0.60 - Maintenance Release
+The Highlights of this release are:
+- Updated to support the latest versions of the iOS and Android.
+- Added support for what3words codes which will be displayed on the Stopover Details screen if available.
+- Some minor code clean up.
