@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'Smite Scoreboard'
+tags: smite-scoreboard-app
 ---
 > **Announcement 11/10/2026**: The Smite Scoreboard app is moving to the Web - but don't panic, you'll still be able to use the current app but it will no longer be updated. 
 > More details to follow!
