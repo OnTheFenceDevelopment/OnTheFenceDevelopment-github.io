@@ -2,7 +2,7 @@
 layout: post
 title:  'Moving from MAUI to PWA with a Little Help'
 date:   2026-10-09 00:00:00
-tags:   maui progressive-web-application pwa
+tags:   maui progressive-web-application pwa smite-scoreboard-app
 ---
 ![the new smite scoreboard web application](/assets/images/smite-scoreboard-pwa-beta.jpg){:width="220px" style="float:left; margin-right: 10px;"}
 In my previous post I announced that I was stepping away from mobile development in favour of Progressive Web Applications (PWA). These look like regular websites and while they can be used as such they have a few tricks up their sleeves - and these lend themselves well to taking the place of mobile applications in many situations.
