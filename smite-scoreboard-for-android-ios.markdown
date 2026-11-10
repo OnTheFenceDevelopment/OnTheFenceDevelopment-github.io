@@ -3,8 +3,17 @@ layout: page
 title: 'Smite Scoreboard'
 tags: smite-scoreboard-app
 ---
-> **Announcement 11/10/2026**: The Smite Scoreboard app is moving to the Web - but don't panic, you'll still be able to use the current app but it will no longer be updated. 
-> More details to follow!
+<div class="announcement-hero notice-warning">
+  <div class="announcement-badge">Important Announcement</div>
+  <h3 class="announcement-title">Smite Scoreboard is Moving to the Web!</h3>
+  <p class="announcement-body">
+    Smite Scoreboard has now moved to the web and the mobile application is no longer being maintained. Existing app installs will continue to function, but all future development and updates will be delivered through the new web application (don't worry, it will still work when you have no internet connection).
+  </p>
+  <div class="announcement-actions">
+    <a href="{{ '/tag/smite-scoreboard-app' | relative_url }}" class="announcement-btn btn-secondary">Smite Scoreboard News & Updates &rarr;</a>
+    <a href="https://smitescoreboard.app" target="_blank" class="announcement-btn btn-secondary">Smite Scoreboard Web App &rarr;</a>
+  </div>
+</div>
 
 ![smite scoreboard app icon](/assets/images/smite_scoreboard_app_icon.png){:style="float:right; margin-left: 10px;"}
 

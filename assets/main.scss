@@ -104,3 +104,146 @@
     background-color: inherit;
   }
 }
+
+/* ==========================================================================
+   Announcement & Migration Components
+   ========================================================================== */
+
+/* Hero Notice Card */
+.announcement-hero {
+  position: relative;
+  margin: 1.75rem 0 2rem;
+  padding: 1.5rem 1.75rem;
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-left: 6px solid #2563eb;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+
+  &.notice-warning {
+    border-left-color: #d97706;
+    background-color: #fffbeb;
+    border-color: #fde68a;
+  }
+
+  .announcement-badge {
+    display: inline-block;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #92400e;
+    background-color: #fef3c7;
+    border: 1px solid #fcd34d;
+    border-radius: 9999px;
+    margin-bottom: 0.75rem;
+  }
+
+  .announcement-title {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: #1e293b;
+    line-height: 1.3;
+  }
+
+  .announcement-body {
+    margin: 0 0 1.25rem 0;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #334155;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .announcement-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: stretch;
+  }
+
+  .announcement-btn {
+    flex: 1 1 200px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0.65rem 1.25rem;
+    font-size: 0.925rem;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 6px;
+    box-sizing: border-box;
+    transition: background-color 0.15s ease, transform 0.1s ease;
+
+    &:hover {
+      text-decoration: none;
+      transform: translateY(-1px);
+    }
+
+    &.btn-primary {
+      background-color: #2563eb;
+      color: #ffffff;
+      border: 1px solid #1d4ed8;
+
+      &:hover {
+        background-color: #1d4ed8;
+      }
+    }
+
+    &.btn-secondary {
+      background-color: #ffffff;
+      color: #334155;
+      border: 1px solid #cbd5e1;
+
+      &:hover {
+        background-color: #f1f5f9;
+        color: #0f172a;
+      }
+    }
+  }
+}
+
+/* Compact Banner */
+.announcement-banner {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  background-color: #eff6ff;
+  border: 1px solid #bfdbfe;
+  border-left: 4px solid #3b82f6;
+  border-radius: 6px;
+  color: #1e3a8a;
+
+  .announcement-icon {
+    font-size: 1.5rem;
+    line-height: 1;
+    flex-shrink: 0;
+  }
+
+  .announcement-content {
+    flex: 1;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+
+  .announcement-links {
+    margin-top: 0.5rem;
+
+    a {
+      font-weight: 600;
+      color: #1d4ed8;
+      text-decoration: underline;
+
+      &:hover {
+        color: #1e40af;
+      }
+    }
+  }
+}
