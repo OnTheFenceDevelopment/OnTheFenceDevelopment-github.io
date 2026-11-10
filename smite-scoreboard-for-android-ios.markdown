@@ -7,7 +7,7 @@ tags: smite-scoreboard-app
   <div class="announcement-badge">Important Announcement</div>
   <h3 class="announcement-title">Smite Scoreboard is Moving to the Web!</h3>
   <p class="announcement-body">
-    Smite Scoreboard has now moved to the web and the mobile application is no longer being maintained. Existing app installs will continue to function, but all future development and updates will be delivered through the new web application (don't worry, it will still work when you have no internet connection).
+    Smite Scoreboard is moving to the web and the mobile application is no longer being maintained. Existing app installs will continue to function, but all future development and updates will be delivered through the new web application. Good things are coming!
   </p>
   <div class="announcement-actions">
     <a href="{{ '/tag/smite-scoreboard-app' | relative_url }}" class="announcement-btn btn-secondary">Smite Scoreboard News & Updates &rarr;</a>
