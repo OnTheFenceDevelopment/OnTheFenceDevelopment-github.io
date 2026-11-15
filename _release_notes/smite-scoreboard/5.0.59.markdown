@@ -1,0 +1,16 @@
+---
+layout: page
+title:  'Release v5.0.59 (Initial Web App Release)'
+date:   2026-11-15 00:00:00
+---
+
+## 5.0.59 - Initial Web App Release
+This was the initial release of Smite Scoreboard for the web - yes, the web!
+
+The release represents development to the point of feature parity with the mobile app, although there are a few small known issues that will be driven out over the coming weeks.
+
+The underlying game logic is the same as the mobile app, not similar - the exact same code. Most of the development work has been focused on the web UI, giving it a familiar look and feel which a number of enhancements.
+
+Moreover, this is not just a web application - no, this is what is known as a Progressive Web App (PWA). This means that, among other things, you can now install the app to your home screen and use it offline. Scores and avatars are persisted between device restarts and will work even without an active internet connection.
+
+This move from native mobile applications to the web is a major step towards a bright future for Smite Scoreboard.
