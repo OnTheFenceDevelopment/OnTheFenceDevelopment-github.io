@@ -9,9 +9,11 @@ Since then I worked for nine years as a Contractor, working for numerous compani
 
 When the Covid-19 pandemic came along in 2020 the contracting market dried up overnight so combined with the pending tax changes (aka IR35) making it less worthwhile working for myself I decided to return to 'regular employment'.
 
-After nearly three years of regular employment I got itchy feet and decided to return to contracting.
+After nearly three years of regular employment I got itchy feet and decided to return to contracting - a decision I wish I'd delayed for a few months. If I had then I would have seen the bottom fall out of the contracting market and would have stayed put. The market dipped, and dipped again and I was dragged along with it - for almost three years.
 
-During this time I have tried to blog about things that have interested and frustrated me. Acting as an 'aide-mémoire' for me so that I don't have to remember how I overcame some problem or other and have to trawl the Internet all over again.
+Ultimately enough was enough! With no signs of recovery in the contracting market I decided, once again, to return to 'regular employment'. I was fortunate to secure a positon with a company I'd worked with previously and so far it's going well.
+
+Since 2009 I have tried to blog about things that have interested and frustrated me. Acting as an 'aide-mémoire' for me so that I don't have to remember how I overcame some problem or other and have to trawl the Internet all over again.
 
 The blog itself has gone through many incarnations in terms of hosting. Starting with Joomla! and moving through Wordpress (self hosted on a Raspberry Pi) and Squarespace finally ending up back on Wordpress (hosted by <a href="https://www.wordpress.com" target="_blank">wordpress.com</a> this time).
 
