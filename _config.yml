@@ -24,9 +24,7 @@ description: Ramblings of a .NET & Xamarin (soon to be MAUI) Developer from the 
 show_excerpts: true
 excerpt_separator: <!--more-->
 github_username:  onthefencedevelopment
-mastodon: 
-  - username: onthefencedev
-    instance: twit.social
+linkedin_username: davidsewellcarson
 paginate: 5
 # Build settings
 theme: minima
