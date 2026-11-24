@@ -15,11 +15,15 @@ The problem with development tooling is that uninstalling an application doesn't
 
 And it was beginning to show.
 
+<!--more-->
+
 Disk space had gradually dwindled to the point where I had less than 100GB remaining. Now, that's not exactly a disaster on a machine with a reasonably large SSD, but it was getting a little ridiculous considering the software I was actually using.
 
 I could have spent an evening hunting down unwanted files and reclaiming space, but that felt a little like treating the symptoms rather than the problem.
 
-Perhaps it was time for a fresh start.
+I did try to manually locate and remove the bloat but after a few hours I managed to free up another 100GB - no mean feat, but at that point I decided it was probably time for a fresh start.
+
+[![mac storage settings window showing about 200GB of free space](/assets/images/mac-spring-clean-initial.png)](/assets/images/mac-spring-clean-initial.png){:target='_blank'}
 
 ## Time for a reset
 
