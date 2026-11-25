@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-labelledby="title desc">
+  <title id="title">A new direction for app development</title>
+  <desc id="desc">A road leading to a phone is blocked, while a sunlit path leads towards the web.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#9bc9df"/>
+      <stop offset="1" stop-color="#f9e9c2"/>
+    </linearGradient>
+    <linearGradient id="grass" x2="0" y2="1">
+      <stop stop-color="#87aa78"/>
+      <stop offset="1" stop-color="#385f50"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="480" fill="url(#sky)"/>
+  <circle cx="483" cy="100" r="46" fill="#fff2bd"/>
+  <path d="M0 245 Q100 182 211 242 Q310 198 396 238 Q500 180 600 223 V480 H0Z" fill="#799b86"/>
+  <path d="M0 286 Q115 235 220 278 Q332 220 441 270 Q520 239 600 260 V480 H0Z" fill="url(#grass)"/>
+  <path d="M122 480 Q153 378 186 321 Q200 295 208 270 L275 270 Q252 327 275 365 L333 480Z" fill="#4c5961"/>
+  <path d="M219 480 Q283 390 363 334 Q424 291 497 267 L521 278 Q457 313 419 354 Q380 397 380 480Z" fill="#e4c78c"/>
+  <path d="M226 457 L232 421 M237 392 L242 373 M239 345 L237 333" fill="none" stroke="#e9dfba" stroke-width="6" stroke-linecap="round"/>
+  <g transform="translate(161 94)">
+    <rect x="0" y="0" width="120" height="165" rx="17" fill="#293b48"/>
+    <rect x="8" y="12" width="104" height="137" rx="8" fill="#c5d5d4"/>
+    <rect x="43" y="5" width="34" height="4" rx="2" fill="#91a4aa"/>
+    <circle cx="60" cy="157" r="4" fill="#91a4aa"/>
+    <path d="M29 55 h23 v23 H29z M68 55 h23 v23 H68z M29 94 h23 v23 H29z M68 94 h23 v23 H68z" fill="#78999b"/>
+  </g>
+  <g transform="translate(159 258)">
+    <path d="M14 30 v42 M125 30 v42" stroke="#4b4039" stroke-width="10"/>
+    <rect x="0" y="0" width="140" height="34" rx="4" fill="#f1e7d2" stroke="#564943" stroke-width="4"/>
+    <path d="M14 2 L2 30 M48 2 L34 32 M82 2 L68 32 M116 2 L102 32 M139 17 L132 32" stroke="#c65d4e" stroke-width="13"/>
+  </g>
+  <g transform="translate(421 154)">
+    <circle cx="52" cy="52" r="50" fill="#f7f4df" stroke="#356f81" stroke-width="5"/>
+    <circle cx="52" cy="52" r="34" fill="none" stroke="#356f81" stroke-width="4"/>
+    <ellipse cx="52" cy="52" rx="15" ry="34" fill="none" stroke="#356f81" stroke-width="4"/>
+    <path d="M19 52 H85 M25 35 H79 M25 69 H79" fill="none" stroke="#356f81" stroke-width="4"/>
+    <path d="M52 105 v65" stroke="#6a5040" stroke-width="10"/>
+  </g>
+  <g fill="#f4d883">
+    <circle cx="51" cy="367" r="4"/><circle cx="75" cy="385" r="3"/><circle cx="501" cy="380" r="4"/><circle cx="531" cy="400" r="3"/><circle cx="467" cy="429" r="3"/>
+  </g>
+</svg>
