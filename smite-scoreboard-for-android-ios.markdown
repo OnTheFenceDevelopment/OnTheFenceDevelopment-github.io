@@ -7,7 +7,8 @@ title: 'Smite Scoreboard'
   <div class="announcement-badge">Important Announcement</div>
   <h3 class="announcement-title">Smite Scoreboard is Moving to the Web!</h3>
   <p class="announcement-body">
-    Smite Scoreboard is moving to the web and the mobile application is no longer being maintained. Existing app installs will continue to function, but all future development and updates will be delivered through the new web application. Good things are coming!
+    Due to the increasingly onerous requirements being imposed by the Google Play Store it has been decided to cease development of the mobile applications, including the iOS version. 
+    Existing app installs will continue to function, but all future development and updates will be focused on the new web application (including support for when you don't have a signal!). Good things are coming!
   </p>
   <div class="announcement-actions">
     <a href="{{ '/tag/smite-scoreboard-app' | relative_url }}" class="announcement-btn btn-secondary">Smite Scoreboard News & Updates &rarr;</a>

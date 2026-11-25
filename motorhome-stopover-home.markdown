@@ -2,7 +2,19 @@
 layout: page
 title:  'Motorhome Stopover'
 ---
-> This is a companion application for the Motorhome Stopover website – you will need an active subscription to use this app!
+
+<div class="announcement-hero notice-warning">
+  <div class="announcement-badge">Important Announcement</div>
+  <h3 class="announcement-title">The Motorhome Stopover App is no longer being maintained</h3>
+  <p class="announcement-body">
+    Due to the increasingly onerous requirements being imposed by the Google Play Store it has been decided to cease development of the mobile applications, including the iOS version. 
+    Existing app installs will continue to function, but all future development and updates, including making it more mobile friendly (even when you don't have a mobile signal), will be focused on the website. Good things are coming!
+  </p>
+  <div class="announcement-actions">
+    <a href="{{ '/tag/motorhome-stopover' | relative_url }}" class="announcement-btn btn-secondary">Motorhome Stopover News & Updates &rarr;</a>
+    <a href="https://motorhomestopover.co.uk" target="_blank" class="announcement-btn btn-secondary">Motorhome Stopover Website &rarr;</a>
+  </div>
+</div>
 
 ![motorhome stopover app icon](/assets/images/mhs_app_icon.png){:style="float:right; margin-left:10px;"}
 I have developed applications for Android (5.0+) and iOS (11+) which will allow users subscribed to the Motorhome Stopover website to access Stopover locations around the UK on their mobile devices.
